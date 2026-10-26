@@ -1,0 +1,1201 @@
+customer_id,age,gender,location,registration_date,acquisition_channel,customer_type
+CUST-0001,53,Male,"Boston, MA",2024-09-21,Paid Social,Small Business / Pro
+CUST-0002,28,Female,"Atlanta, GA",2025-12-23,Google Ads,Retail Member
+CUST-0003,45,Male,"Houston, TX",2025-02-23,Organic Search,Retail Member
+CUST-0004,30,Non-Binary,"Denver, CO",2024-12-15,Referral,Retail Member
+CUST-0005,40,Female,"Boston, MA",2024-08-07,Referral,Direct-to-Consumer
+CUST-0006,59,Male,"Denver, CO",2024-08-10,Google Ads,Direct-to-Consumer
+CUST-0007,31,Female,"Austin, TX",2024-08-14,Referral,Retail Member
+CUST-0008,30,Male,"Chicago, IL",2025-02-01,Organic Search,Direct-to-Consumer
+CUST-0009,38,Male,"Atlanta, GA",2024-08-07,Organic Search,Direct-to-Consumer
+CUST-0010,43,Male,"Houston, TX",2025-03-08,Organic Search,Direct-to-Consumer
+CUST-0011,45,Female,"Denver, CO",2024-12-17,Influencer,Direct-to-Consumer
+CUST-0012,24,Female,"Los Angeles, CA",2025-10-13,Influencer,Retail Member
+CUST-0013,37,Non-Binary,"Atlanta, GA",2024-12-20,Referral,Retail Member
+CUST-0014,44,Female,"Atlanta, GA",2025-12-01,Organic Search,Direct-to-Consumer
+CUST-0015,52,Male,"Los Angeles, CA",2026-01-14,Google Ads,Retail Member
+CUST-0016,45,Female,"Houston, TX",2025-10-05,Organic Search,Direct-to-Consumer
+CUST-0017,46,Female,"Miami, FL",2024-11-14,Organic Search,Direct-to-Consumer
+CUST-0018,42,Male,"Seattle, WA",2026-01-07,Influencer,Direct-to-Consumer
+CUST-0019,55,Male,"Los Angeles, CA",2025-03-04,Referral,Direct-to-Consumer
+CUST-0020,39,Female,"Houston, TX",2025-06-22,Google Ads,Retail Member
+CUST-0021,58,Male,"Boston, MA",2025-03-03,Organic Search,Direct-to-Consumer
+CUST-0022,37,Female,"Atlanta, GA",2025-03-21,Google Ads,Direct-to-Consumer
+CUST-0023,54,Male,"Austin, TX",2025-04-03,Google Ads,Direct-to-Consumer
+CUST-0024,33,Male,"Seattle, WA",2025-01-29,Google Ads,Direct-to-Consumer
+CUST-0025,34,Female,"Seattle, WA",2025-06-23,Paid Social,Direct-to-Consumer
+CUST-0026,23,Male,"Boston, MA",2025-12-23,Paid Social,Direct-to-Consumer
+CUST-0027,18,Male,"Houston, TX",2025-02-15,Email Marketing,Direct-to-Consumer
+CUST-0028,58,Female,"Chicago, IL",2025-07-14,Email Marketing,Direct-to-Consumer
+CUST-0029,52,Male,"Chicago, IL",2025-02-19,Referral,Retail Member
+CUST-0030,57,Female,"Los Angeles, CA",2025-01-06,Paid Social,Direct-to-Consumer
+CUST-0031,26,Female,"Denver, CO",2024-07-29,Paid Social,Direct-to-Consumer
+CUST-0032,42,Female,"Atlanta, GA",2025-12-19,Paid Social,Direct-to-Consumer
+CUST-0033,55,Female,"Miami, FL",2025-03-19,Organic Search,Retail Member
+CUST-0034,24,Female,"Boston, MA",2025-10-30,Paid Social,Retail Member
+CUST-0035,18,Male,"New York, NY",2025-12-05,Organic Search,Direct-to-Consumer
+CUST-0036,26,Female,"Austin, TX",2025-06-26,Google Ads,Retail Member
+CUST-0037,39,Male,"Houston, TX",2025-02-16,Organic Search,Direct-to-Consumer
+CUST-0038,56,Non-Binary,"New York, NY",2025-09-19,Organic Search,Direct-to-Consumer
+CUST-0039,54,Female,"Los Angeles, CA",2024-08-13,Referral,Direct-to-Consumer
+CUST-0040,44,Female,"Atlanta, GA",2025-12-08,Paid Social,Direct-to-Consumer
+CUST-0041,64,Female,"Houston, TX",2025-02-14,Influencer,Retail Member
+CUST-0042,34,Female,"Austin, TX",2025-09-09,Referral,Direct-to-Consumer
+CUST-0043,52,Prefer not to say,"Boston, MA",2024-11-28,Google Ads,Direct-to-Consumer
+CUST-0044,20,Male,"Denver, CO",2025-10-10,Organic Search,Small Business / Pro
+CUST-0045,48,Female,"Austin, TX",2025-03-18,Google Ads,Direct-to-Consumer
+CUST-0046,49,Male,"Los Angeles, CA",2024-09-06,Organic Search,Small Business / Pro
+CUST-0047,47,Male,"Atlanta, GA",2025-02-26,Google Ads,Retail Member
+CUST-0048,33,Male,"Chicago, IL",2024-10-19,Email Marketing,Retail Member
+CUST-0049,44,Female,"Seattle, WA",2024-10-18,Organic Search,Direct-to-Consumer
+CUST-0050,31,Female,"Miami, FL",2025-08-26,Referral,Direct-to-Consumer
+CUST-0051,18,Female,"Seattle, WA",2025-06-27,Google Ads,Direct-to-Consumer
+CUST-0052,26,Male,"Los Angeles, CA",2026-01-13,Google Ads,Small Business / Pro
+CUST-0053,29,Female,"Houston, TX",2026-01-16,Paid Social,Direct-to-Consumer
+CUST-0054,20,Male,"Austin, TX",2024-12-05,Paid Social,Retail Member
+CUST-0055,22,Female,"Seattle, WA",2025-02-26,Organic Search,Direct-to-Consumer
+CUST-0056,39,Female,"Houston, TX",2026-01-04,Influencer,Direct-to-Consumer
+CUST-0057,35,Male,"Los Angeles, CA",2025-10-18,Organic Search,Direct-to-Consumer
+CUST-0058,37,Male,"Boston, MA",2025-12-08,Google Ads,Retail Member
+CUST-0059,45,Female,"Houston, TX",2025-10-24,Google Ads,Retail Member
+CUST-0060,25,Male,"Denver, CO",2025-01-19,Organic Search,Direct-to-Consumer
+CUST-0061,38,Male,"Boston, MA",2024-08-13,Google Ads,Direct-to-Consumer
+CUST-0062,60,Female,"Boston, MA",2025-08-17,Paid Social,Direct-to-Consumer
+CUST-0063,23,Male,"Miami, FL",2025-06-28,Referral,Retail Member
+CUST-0064,45,Female,"Miami, FL",2025-05-19,Organic Search,Direct-to-Consumer
+CUST-0065,35,Male,"Seattle, WA",2024-11-10,Paid Social,Direct-to-Consumer
+CUST-0066,48,Female,"Boston, MA",2025-10-31,Google Ads,Direct-to-Consumer
+CUST-0067,35,Female,"Miami, FL",2024-10-14,Influencer,Direct-to-Consumer
+CUST-0068,40,Female,"Boston, MA",2025-10-06,Google Ads,Direct-to-Consumer
+CUST-0069,32,Female,"Houston, TX",2024-08-17,Organic Search,Direct-to-Consumer
+CUST-0070,24,Female,"Denver, CO",2025-12-12,Referral,Direct-to-Consumer
+CUST-0071,19,Female,"Los Angeles, CA",2025-06-21,Influencer,Direct-to-Consumer
+CUST-0072,33,Female,"Seattle, WA",2024-10-31,Influencer,Direct-to-Consumer
+CUST-0073,34,Male,"Atlanta, GA",2025-11-22,Referral,Direct-to-Consumer
+CUST-0074,33,Male,"Houston, TX",2024-08-19,Influencer,Direct-to-Consumer
+CUST-0075,23,Prefer not to say,"Denver, CO",2024-07-12,Google Ads,Retail Member
+CUST-0076,32,Male,"Seattle, WA",2024-10-18,Organic Search,Retail Member
+CUST-0077,29,Male,"Los Angeles, CA",2024-08-25,Organic Search,Direct-to-Consumer
+CUST-0078,42,Female,"Los Angeles, CA",2025-01-20,Organic Search,Small Business / Pro
+CUST-0079,18,Female,"Miami, FL",2025-07-04,Email Marketing,Direct-to-Consumer
+CUST-0080,49,Male,"Seattle, WA",2025-03-06,Email Marketing,Direct-to-Consumer
+CUST-0081,25,Male,"Seattle, WA",2025-11-10,Referral,Direct-to-Consumer
+CUST-0082,48,Female,"Austin, TX",2024-10-05,Organic Search,Direct-to-Consumer
+CUST-0083,36,Male,"Atlanta, GA",2025-05-08,Email Marketing,Small Business / Pro
+CUST-0084,43,Female,"Seattle, WA",2025-05-23,Organic Search,Direct-to-Consumer
+CUST-0085,24,Female,"Denver, CO",2025-10-29,Influencer,Direct-to-Consumer
+CUST-0086,32,Non-Binary,"Houston, TX",2024-10-26,Google Ads,Direct-to-Consumer
+CUST-0087,52,Female,"Chicago, IL",2025-03-12,Referral,Direct-to-Consumer
+CUST-0088,49,Female,"Los Angeles, CA",2024-10-09,Referral,Small Business / Pro
+CUST-0089,25,Female,"Chicago, IL",2025-04-28,Referral,Direct-to-Consumer
+CUST-0090,31,Male,"Miami, FL",2025-10-07,Google Ads,Direct-to-Consumer
+CUST-0091,48,Female,"Austin, TX",2024-09-20,Paid Social,Direct-to-Consumer
+CUST-0092,61,Male,"Austin, TX",2024-12-21,Influencer,Direct-to-Consumer
+CUST-0093,33,Male,"Austin, TX",2024-10-30,Referral,Direct-to-Consumer
+CUST-0094,24,Male,"Austin, TX",2025-05-19,Google Ads,Direct-to-Consumer
+CUST-0095,19,Male,"Austin, TX",2025-03-14,Paid Social,Direct-to-Consumer
+CUST-0096,27,Female,"Los Angeles, CA",2025-06-03,Paid Social,Direct-to-Consumer
+CUST-0097,52,Male,"Atlanta, GA",2025-07-08,Referral,Direct-to-Consumer
+CUST-0098,33,Male,"New York, NY",2026-01-06,Influencer,Direct-to-Consumer
+CUST-0099,49,Male,"Denver, CO",2025-06-30,Organic Search,Retail Member
+CUST-0100,49,Female,"Chicago, IL",2024-11-26,Influencer,Direct-to-Consumer
+CUST-0101,51,Male,"Chicago, IL",2025-12-30,Influencer,Retail Member
+CUST-0102,49,Female,"Houston, TX",2024-10-29,Influencer,Small Business / Pro
+CUST-0103,29,Female,"Austin, TX",2025-01-31,Email Marketing,Direct-to-Consumer
+CUST-0104,49,Female,"New York, NY",2025-06-07,Referral,Direct-to-Consumer
+CUST-0105,27,Non-Binary,"Miami, FL",2025-07-25,Email Marketing,Direct-to-Consumer
+CUST-0106,34,Female,"Denver, CO",2025-01-07,Google Ads,Small Business / Pro
+CUST-0107,61,Female,"Boston, MA",2025-04-18,Influencer,Direct-to-Consumer
+CUST-0108,40,Female,"Boston, MA",2024-08-12,Organic Search,Direct-to-Consumer
+CUST-0109,38,Male,"New York, NY",2025-09-16,Referral,Retail Member
+CUST-0110,49,Male,"Atlanta, GA",2024-08-04,Google Ads,Direct-to-Consumer
+CUST-0111,21,Female,"Seattle, WA",2025-05-26,Paid Social,Direct-to-Consumer
+CUST-0112,46,Male,"Los Angeles, CA",2025-06-17,Referral,Retail Member
+CUST-0113,29,Male,"Seattle, WA",2025-08-13,Referral,Retail Member
+CUST-0114,18,Male,"Seattle, WA",2025-12-28,Organic Search,Direct-to-Consumer
+CUST-0115,47,Female,"Denver, CO",2024-12-01,Google Ads,Retail Member
+CUST-0116,30,Male,"Chicago, IL",2024-10-24,Paid Social,Direct-to-Consumer
+CUST-0117,31,Female,"Austin, TX",2025-03-20,Google Ads,Direct-to-Consumer
+CUST-0118,44,Female,"Atlanta, GA",2024-09-03,Google Ads,Retail Member
+CUST-0119,31,Female,"Atlanta, GA",2024-11-24,Referral,Direct-to-Consumer
+CUST-0120,39,Male,"Miami, FL",2025-11-07,Email Marketing,Small Business / Pro
+CUST-0121,23,Male,"Denver, CO",2025-06-03,Organic Search,Direct-to-Consumer
+CUST-0122,18,Female,"Miami, FL",2024-12-07,Organic Search,Direct-to-Consumer
+CUST-0123,31,Female,"Miami, FL",2024-08-18,Google Ads,Retail Member
+CUST-0124,32,Female,"Boston, MA",2025-11-22,Referral,Direct-to-Consumer
+CUST-0125,63,Male,"Chicago, IL",2025-03-03,Organic Search,Direct-to-Consumer
+CUST-0126,32,Female,"Boston, MA",2025-09-21,Referral,Direct-to-Consumer
+CUST-0127,21,Female,"Miami, FL",2024-09-22,Organic Search,Direct-to-Consumer
+CUST-0128,27,Male,"Atlanta, GA",2025-09-20,Google Ads,Direct-to-Consumer
+CUST-0129,56,Female,"Seattle, WA",2025-10-30,Referral,Retail Member
+CUST-0130,42,Non-Binary,"Austin, TX",2024-08-29,Google Ads,Small Business / Pro
+CUST-0131,41,Male,"Seattle, WA",2024-11-16,Email Marketing,Direct-to-Consumer
+CUST-0132,26,Female,"Austin, TX",2025-11-28,Paid Social,Small Business / Pro
+CUST-0133,53,Female,"Miami, FL",2025-03-09,Organic Search,Direct-to-Consumer
+CUST-0134,51,Female,"Atlanta, GA",2024-12-04,Organic Search,Direct-to-Consumer
+CUST-0135,22,Male,"Denver, CO",2025-09-15,Paid Social,Retail Member
+CUST-0136,26,Female,"Seattle, WA",2025-06-02,Organic Search,Direct-to-Consumer
+CUST-0137,18,Female,"Los Angeles, CA",2025-06-27,Influencer,Direct-to-Consumer
+CUST-0138,45,Non-Binary,"Boston, MA",2024-10-14,Paid Social,Direct-to-Consumer
+CUST-0139,44,Female,"Denver, CO",2025-03-17,Paid Social,Small Business / Pro
+CUST-0140,20,Male,"Atlanta, GA",2025-07-26,Organic Search,Direct-to-Consumer
+CUST-0141,23,Male,"Miami, FL",2025-12-29,Google Ads,Direct-to-Consumer
+CUST-0142,27,Male,"Boston, MA",2025-12-04,Organic Search,Retail Member
+CUST-0143,26,Female,"New York, NY",2024-08-17,Influencer,Retail Member
+CUST-0144,36,Male,"Los Angeles, CA",2025-08-25,Paid Social,Direct-to-Consumer
+CUST-0145,28,Male,"Boston, MA",2025-05-18,Referral,Direct-to-Consumer
+CUST-0146,44,Female,"Houston, TX",2025-08-15,Paid Social,Retail Member
+CUST-0147,20,Male,"Seattle, WA",2024-11-21,Email Marketing,Direct-to-Consumer
+CUST-0148,37,Female,"Boston, MA",2025-12-21,Google Ads,Direct-to-Consumer
+CUST-0149,41,Female,"Boston, MA",2025-06-03,Organic Search,Direct-to-Consumer
+CUST-0150,28,Male,"Los Angeles, CA",2024-11-15,Referral,Small Business / Pro
+CUST-0151,29,Female,"Atlanta, GA",2025-08-20,Paid Social,Direct-to-Consumer
+CUST-0152,20,Male,"Denver, CO",2025-06-20,Organic Search,Direct-to-Consumer
+CUST-0153,37,Male,"Chicago, IL",2025-04-08,Paid Social,Small Business / Pro
+CUST-0154,47,Female,"New York, NY",2024-08-14,Email Marketing,Direct-to-Consumer
+CUST-0155,27,Male,"Seattle, WA",2026-01-12,Email Marketing,Retail Member
+CUST-0156,23,Male,"New York, NY",2025-09-29,Influencer,Direct-to-Consumer
+CUST-0157,24,Male,"Miami, FL",2024-11-09,Organic Search,Direct-to-Consumer
+CUST-0158,40,Male,"Atlanta, GA",2024-10-20,Email Marketing,Direct-to-Consumer
+CUST-0159,27,Male,"Houston, TX",2024-09-17,Google Ads,Retail Member
+CUST-0160,42,Female,"Los Angeles, CA",2024-09-23,Google Ads,Direct-to-Consumer
+CUST-0161,44,Male,"Boston, MA",2025-04-14,Organic Search,Direct-to-Consumer
+CUST-0162,29,Male,"Chicago, IL",2024-09-18,Email Marketing,Retail Member
+CUST-0163,40,Female,"Seattle, WA",2025-02-28,Email Marketing,Direct-to-Consumer
+CUST-0164,22,Prefer not to say,"Chicago, IL",2025-04-02,Organic Search,Direct-to-Consumer
+CUST-0165,55,Female,"Miami, FL",2024-10-19,Email Marketing,Direct-to-Consumer
+CUST-0166,21,Male,"Miami, FL",2025-07-09,Paid Social,Retail Member
+CUST-0167,29,Female,"Atlanta, GA",2025-03-20,Referral,Retail Member
+CUST-0168,22,Female,"Atlanta, GA",2025-06-23,Paid Social,Retail Member
+CUST-0169,50,Female,"Denver, CO",2025-08-27,Email Marketing,Direct-to-Consumer
+CUST-0170,56,Female,"Houston, TX",2024-11-24,Organic Search,Retail Member
+CUST-0171,33,Male,"Chicago, IL",2024-11-27,Email Marketing,Retail Member
+CUST-0172,48,Male,"Houston, TX",2025-07-27,Influencer,Retail Member
+CUST-0173,45,Female,"Houston, TX",2024-12-14,Organic Search,Direct-to-Consumer
+CUST-0174,30,Female,"New York, NY",2025-04-05,Organic Search,Direct-to-Consumer
+CUST-0175,45,Female,"Atlanta, GA",2024-09-11,Referral,Direct-to-Consumer
+CUST-0176,38,Female,"Denver, CO",2024-08-20,Google Ads,Direct-to-Consumer
+CUST-0177,34,Male,"Chicago, IL",2025-03-06,Influencer,Retail Member
+CUST-0178,34,Male,"Austin, TX",2025-03-18,Email Marketing,Direct-to-Consumer
+CUST-0179,30,Male,"Denver, CO",2025-11-27,Organic Search,Direct-to-Consumer
+CUST-0180,50,Female,"Seattle, WA",2025-07-26,Referral,Direct-to-Consumer
+CUST-0181,34,Male,"Chicago, IL",2024-08-29,Referral,Direct-to-Consumer
+CUST-0182,53,Male,"Houston, TX",2024-12-06,Referral,Small Business / Pro
+CUST-0183,22,Female,"Atlanta, GA",2026-01-30,Paid Social,Direct-to-Consumer
+CUST-0184,22,Male,"Los Angeles, CA",2025-04-29,Organic Search,Direct-to-Consumer
+CUST-0185,33,Female,"Chicago, IL",2024-11-10,Paid Social,Direct-to-Consumer
+CUST-0186,18,Male,"Seattle, WA",2025-01-27,Organic Search,Direct-to-Consumer
+CUST-0187,36,Male,"Boston, MA",2025-01-18,Organic Search,Direct-to-Consumer
+CUST-0188,29,Male,"New York, NY",2024-08-05,Organic Search,Direct-to-Consumer
+CUST-0189,47,Male,"Chicago, IL",2025-02-17,Influencer,Direct-to-Consumer
+CUST-0190,36,Female,"Chicago, IL",2025-02-18,Email Marketing,Direct-to-Consumer
+CUST-0191,52,Female,"Boston, MA",2025-10-05,Influencer,Retail Member
+CUST-0192,20,Male,"Miami, FL",2024-11-11,Organic Search,Direct-to-Consumer
+CUST-0193,24,Female,"Houston, TX",2025-11-10,Organic Search,Direct-to-Consumer
+CUST-0194,39,Male,"New York, NY",2024-08-04,Paid Social,Direct-to-Consumer
+CUST-0195,30,Male,"Boston, MA",2024-10-23,Email Marketing,Direct-to-Consumer
+CUST-0196,52,Male,"Chicago, IL",2025-09-20,Organic Search,Direct-to-Consumer
+CUST-0197,40,Male,"Seattle, WA",2024-11-06,Google Ads,Direct-to-Consumer
+CUST-0198,21,Female,"Chicago, IL",2025-05-26,Google Ads,Direct-to-Consumer
+CUST-0199,18,Male,"Atlanta, GA",2025-03-28,Email Marketing,Direct-to-Consumer
+CUST-0200,34,Female,"Chicago, IL",2024-11-13,Paid Social,Direct-to-Consumer
+CUST-0201,33,Male,"Chicago, IL",2024-09-03,Email Marketing,Retail Member
+CUST-0202,58,Female,"Denver, CO",2025-11-02,Google Ads,Direct-to-Consumer
+CUST-0203,59,Male,"Miami, FL",2025-04-01,Organic Search,Direct-to-Consumer
+CUST-0204,34,Female,"Denver, CO",2025-07-07,Influencer,Direct-to-Consumer
+CUST-0205,18,Female,"New York, NY",2024-11-24,Referral,Direct-to-Consumer
+CUST-0206,47,Female,"Houston, TX",2024-11-02,Influencer,Direct-to-Consumer
+CUST-0207,35,Female,"Denver, CO",2025-02-06,Google Ads,Small Business / Pro
+CUST-0208,40,Female,"Seattle, WA",2024-11-30,Paid Social,Direct-to-Consumer
+CUST-0209,25,Male,"Austin, TX",2025-07-30,Paid Social,Direct-to-Consumer
+CUST-0210,40,Female,"Los Angeles, CA",2025-06-29,Influencer,Direct-to-Consumer
+CUST-0211,34,Female,"Seattle, WA",2025-11-09,Influencer,Direct-to-Consumer
+CUST-0212,40,Male,"Seattle, WA",2025-01-23,Email Marketing,Direct-to-Consumer
+CUST-0213,24,Female,"New York, NY",2024-12-22,Paid Social,Direct-to-Consumer
+CUST-0214,26,Non-Binary,"Miami, FL",2024-09-04,Organic Search,Direct-to-Consumer
+CUST-0215,30,Male,"Chicago, IL",2024-12-25,Google Ads,Direct-to-Consumer
+CUST-0216,42,Male,"Austin, TX",2024-08-14,Organic Search,Direct-to-Consumer
+CUST-0217,19,Non-Binary,"Austin, TX",2025-04-24,Paid Social,Direct-to-Consumer
+CUST-0218,38,Female,"Seattle, WA",2024-10-29,Google Ads,Direct-to-Consumer
+CUST-0219,32,Female,"Seattle, WA",2025-02-28,Influencer,Direct-to-Consumer
+CUST-0220,42,Female,"Houston, TX",2025-06-02,Paid Social,Direct-to-Consumer
+CUST-0221,29,Male,"Atlanta, GA",2024-07-17,Google Ads,Retail Member
+CUST-0222,51,Prefer not to say,"Los Angeles, CA",2025-01-16,Google Ads,Small Business / Pro
+CUST-0223,30,Female,"Seattle, WA",2025-02-27,Paid Social,Direct-to-Consumer
+CUST-0224,46,Male,"Miami, FL",2025-09-24,Google Ads,Direct-to-Consumer
+CUST-0225,46,Female,"Austin, TX",2025-06-26,Referral,Direct-to-Consumer
+CUST-0226,48,Female,"Atlanta, GA",2025-03-19,Influencer,Direct-to-Consumer
+CUST-0227,37,Female,"Denver, CO",2025-09-17,Referral,Direct-to-Consumer
+CUST-0228,20,Male,"Houston, TX",2025-07-06,Organic Search,Direct-to-Consumer
+CUST-0229,22,Male,"Seattle, WA",2025-11-02,Paid Social,Direct-to-Consumer
+CUST-0230,46,Male,"Los Angeles, CA",2025-01-31,Influencer,Direct-to-Consumer
+CUST-0231,25,Male,"Boston, MA",2025-01-01,Referral,Direct-to-Consumer
+CUST-0232,33,Female,"Denver, CO",2025-09-27,Organic Search,Retail Member
+CUST-0233,18,Female,"Miami, FL",2025-02-18,Organic Search,Direct-to-Consumer
+CUST-0234,27,Male,"New York, NY",2025-05-28,Organic Search,Direct-to-Consumer
+CUST-0235,31,Male,"New York, NY",2025-07-17,Google Ads,Direct-to-Consumer
+CUST-0236,20,Male,"Denver, CO",2025-01-22,Organic Search,Direct-to-Consumer
+CUST-0237,44,Male,"Denver, CO",2025-12-25,Google Ads,Direct-to-Consumer
+CUST-0238,34,Male,"Denver, CO",2024-10-07,Paid Social,Direct-to-Consumer
+CUST-0239,25,Female,"Atlanta, GA",2024-08-06,Organic Search,Retail Member
+CUST-0240,53,Male,"Seattle, WA",2025-03-28,Email Marketing,Direct-to-Consumer
+CUST-0241,18,Non-Binary,"Atlanta, GA",2025-11-27,Organic Search,Direct-to-Consumer
+CUST-0242,25,Male,"Houston, TX",2025-10-23,Email Marketing,Small Business / Pro
+CUST-0243,18,Non-Binary,"Chicago, IL",2025-08-19,Organic Search,Direct-to-Consumer
+CUST-0244,22,Male,"Atlanta, GA",2025-07-25,Organic Search,Retail Member
+CUST-0245,45,Male,"New York, NY",2024-10-21,Referral,Direct-to-Consumer
+CUST-0246,29,Female,"Chicago, IL",2025-07-04,Google Ads,Direct-to-Consumer
+CUST-0247,40,Male,"Atlanta, GA",2025-01-26,Paid Social,Direct-to-Consumer
+CUST-0248,28,Female,"Atlanta, GA",2025-09-29,Email Marketing,Direct-to-Consumer
+CUST-0249,18,Male,"Atlanta, GA",2025-11-19,Email Marketing,Retail Member
+CUST-0250,38,Male,"Houston, TX",2025-07-27,Organic Search,Direct-to-Consumer
+CUST-0251,37,Female,"New York, NY",2025-01-25,Organic Search,Direct-to-Consumer
+CUST-0252,32,Male,"New York, NY",2025-09-20,Referral,Direct-to-Consumer
+CUST-0253,31,Female,"Seattle, WA",2024-12-14,Paid Social,Direct-to-Consumer
+CUST-0254,29,Female,"New York, NY",2025-07-18,Paid Social,Retail Member
+CUST-0255,58,Female,"New York, NY",2025-10-04,Organic Search,Retail Member
+CUST-0256,29,Male,"Boston, MA",2025-07-25,Referral,Direct-to-Consumer
+CUST-0257,35,Male,"Houston, TX",2025-12-05,Paid Social,Direct-to-Consumer
+CUST-0258,27,Female,"Houston, TX",2024-08-24,Influencer,Retail Member
+CUST-0259,43,Female,"Seattle, WA",2025-01-17,Paid Social,Direct-to-Consumer
+CUST-0260,50,Female,"Los Angeles, CA",2025-06-04,Google Ads,Retail Member
+CUST-0261,28,Non-Binary,"Atlanta, GA",2024-11-18,Referral,Small Business / Pro
+CUST-0262,28,Male,"Seattle, WA",2026-01-14,Organic Search,Direct-to-Consumer
+CUST-0263,47,Male,"Chicago, IL",2025-04-24,Influencer,Direct-to-Consumer
+CUST-0264,25,Male,"New York, NY",2025-11-28,Influencer,Direct-to-Consumer
+CUST-0265,31,Female,"Los Angeles, CA",2026-01-11,Google Ads,Direct-to-Consumer
+CUST-0266,55,Female,"New York, NY",2024-09-20,Paid Social,Retail Member
+CUST-0267,41,Non-Binary,"Seattle, WA",2025-02-07,Influencer,Retail Member
+CUST-0268,34,Male,"Chicago, IL",2024-08-07,Email Marketing,Direct-to-Consumer
+CUST-0269,39,Female,"Los Angeles, CA",2024-08-11,Paid Social,Direct-to-Consumer
+CUST-0270,43,Female,"Houston, TX",2025-05-09,Influencer,Retail Member
+CUST-0271,29,Female,"Atlanta, GA",2025-04-17,Google Ads,Direct-to-Consumer
+CUST-0272,31,Male,"Boston, MA",2024-12-22,Organic Search,Retail Member
+CUST-0273,29,Prefer not to say,"Miami, FL",2024-08-14,Organic Search,Direct-to-Consumer
+CUST-0274,33,Male,"New York, NY",2025-08-13,Google Ads,Direct-to-Consumer
+CUST-0275,52,Male,"Atlanta, GA",2024-11-21,Organic Search,Direct-to-Consumer
+CUST-0276,39,Male,"Boston, MA",2025-05-06,Google Ads,Direct-to-Consumer
+CUST-0277,35,Male,"Seattle, WA",2025-08-14,Organic Search,Direct-to-Consumer
+CUST-0278,31,Male,"Boston, MA",2024-08-01,Paid Social,Direct-to-Consumer
+CUST-0279,21,Male,"Chicago, IL",2024-12-08,Influencer,Direct-to-Consumer
+CUST-0280,18,Female,"Los Angeles, CA",2025-09-22,Paid Social,Direct-to-Consumer
+CUST-0281,36,Male,"Boston, MA",2024-12-08,Organic Search,Direct-to-Consumer
+CUST-0282,32,Female,"Atlanta, GA",2025-07-07,Organic Search,Retail Member
+CUST-0283,19,Male,"Chicago, IL",2025-04-09,Email Marketing,Direct-to-Consumer
+CUST-0284,63,Female,"Miami, FL",2025-02-23,Email Marketing,Direct-to-Consumer
+CUST-0285,43,Male,"Los Angeles, CA",2024-11-21,Organic Search,Direct-to-Consumer
+CUST-0286,49,Female,"Miami, FL",2024-09-09,Organic Search,Direct-to-Consumer
+CUST-0287,36,Female,"Denver, CO",2025-04-08,Email Marketing,Direct-to-Consumer
+CUST-0288,43,Male,"Denver, CO",2026-01-12,Organic Search,Retail Member
+CUST-0289,18,Female,"Austin, TX",2025-05-07,Google Ads,Direct-to-Consumer
+CUST-0290,39,Male,"Seattle, WA",2025-01-06,Organic Search,Small Business / Pro
+CUST-0291,36,Female,"Chicago, IL",2024-12-28,Organic Search,Retail Member
+CUST-0292,33,Non-Binary,"Seattle, WA",2024-08-23,Google Ads,Direct-to-Consumer
+CUST-0293,33,Male,"Austin, TX",2025-09-26,Referral,Direct-to-Consumer
+CUST-0294,51,Female,"Seattle, WA",2024-08-06,Referral,Direct-to-Consumer
+CUST-0295,61,Female,"Boston, MA",2025-06-28,Organic Search,Direct-to-Consumer
+CUST-0296,46,Male,"New York, NY",2024-09-23,Organic Search,Direct-to-Consumer
+CUST-0297,18,Male,"Austin, TX",2024-12-06,Organic Search,Direct-to-Consumer
+CUST-0298,44,Male,"Houston, TX",2025-10-27,Influencer,Retail Member
+CUST-0299,47,Female,"New York, NY",2024-07-21,Referral,Retail Member
+CUST-0300,53,Male,"New York, NY",2024-11-24,Referral,Direct-to-Consumer
+CUST-0301,31,Prefer not to say,"Chicago, IL",2025-02-13,Referral,Retail Member
+CUST-0302,22,Male,"Miami, FL",2025-07-08,Google Ads,Direct-to-Consumer
+CUST-0303,40,Male,"Los Angeles, CA",2025-01-12,Organic Search,Retail Member
+CUST-0304,30,Female,"Boston, MA",2025-02-12,Influencer,Direct-to-Consumer
+CUST-0305,44,Male,"Atlanta, GA",2024-08-04,Influencer,Direct-to-Consumer
+CUST-0306,21,Male,"Seattle, WA",2026-01-18,Influencer,Retail Member
+CUST-0307,38,Male,"Miami, FL",2024-08-20,Email Marketing,Direct-to-Consumer
+CUST-0308,38,Male,"Miami, FL",2025-06-24,Google Ads,Direct-to-Consumer
+CUST-0309,29,Female,"Austin, TX",2025-04-08,Paid Social,Small Business / Pro
+CUST-0310,28,Female,"Austin, TX",2025-09-20,Organic Search,Direct-to-Consumer
+CUST-0311,33,Male,"Los Angeles, CA",2024-10-21,Influencer,Retail Member
+CUST-0312,37,Male,"Miami, FL",2024-08-08,Referral,Retail Member
+CUST-0313,48,Male,"Denver, CO",2025-06-12,Paid Social,Small Business / Pro
+CUST-0314,27,Female,"Boston, MA",2025-11-23,Influencer,Direct-to-Consumer
+CUST-0315,31,Female,"New York, NY",2025-06-26,Organic Search,Direct-to-Consumer
+CUST-0316,21,Male,"Chicago, IL",2024-08-21,Google Ads,Direct-to-Consumer
+CUST-0317,27,Male,"Seattle, WA",2025-12-27,Paid Social,Direct-to-Consumer
+CUST-0318,48,Male,"Houston, TX",2024-09-20,Google Ads,Direct-to-Consumer
+CUST-0319,52,Male,"Seattle, WA",2024-10-30,Paid Social,Direct-to-Consumer
+CUST-0320,23,Male,"New York, NY",2025-08-15,Paid Social,Direct-to-Consumer
+CUST-0321,20,Female,"New York, NY",2025-03-21,Google Ads,Direct-to-Consumer
+CUST-0322,51,Female,"New York, NY",2024-10-30,Paid Social,Retail Member
+CUST-0323,42,Prefer not to say,"New York, NY",2025-01-02,Organic Search,Direct-to-Consumer
+CUST-0324,24,Female,"Austin, TX",2025-09-11,Referral,Retail Member
+CUST-0325,29,Female,"Chicago, IL",2025-10-31,Google Ads,Direct-to-Consumer
+CUST-0326,50,Female,"Houston, TX",2024-07-23,Organic Search,Direct-to-Consumer
+CUST-0327,39,Female,"New York, NY",2025-01-15,Paid Social,Direct-to-Consumer
+CUST-0328,42,Female,"Los Angeles, CA",2024-09-03,Organic Search,Direct-to-Consumer
+CUST-0329,18,Female,"Los Angeles, CA",2025-04-16,Google Ads,Direct-to-Consumer
+CUST-0330,50,Male,"Chicago, IL",2024-09-09,Paid Social,Small Business / Pro
+CUST-0331,47,Female,"New York, NY",2025-07-13,Paid Social,Direct-to-Consumer
+CUST-0332,62,Female,"Seattle, WA",2024-07-10,Google Ads,Direct-to-Consumer
+CUST-0333,47,Female,"Seattle, WA",2024-08-22,Paid Social,Direct-to-Consumer
+CUST-0334,39,Female,"Miami, FL",2025-10-20,Influencer,Direct-to-Consumer
+CUST-0335,39,Male,"New York, NY",2025-12-09,Organic Search,Direct-to-Consumer
+CUST-0336,58,Male,"Austin, TX",2025-05-19,Email Marketing,Retail Member
+CUST-0337,24,Female,"Houston, TX",2025-08-29,Organic Search,Direct-to-Consumer
+CUST-0338,39,Male,"Austin, TX",2025-01-15,Paid Social,Retail Member
+CUST-0339,28,Male,"Austin, TX",2025-07-23,Google Ads,Small Business / Pro
+CUST-0340,54,Male,"Austin, TX",2025-09-01,Organic Search,Retail Member
+CUST-0341,39,Male,"Miami, FL",2024-10-08,Paid Social,Direct-to-Consumer
+CUST-0342,18,Female,"Seattle, WA",2024-10-16,Organic Search,Direct-to-Consumer
+CUST-0343,49,Female,"Miami, FL",2025-12-02,Organic Search,Direct-to-Consumer
+CUST-0344,25,Male,"Seattle, WA",2025-12-29,Paid Social,Direct-to-Consumer
+CUST-0345,25,Male,"Chicago, IL",2025-09-23,Organic Search,Direct-to-Consumer
+CUST-0346,18,Male,"Miami, FL",2024-07-13,Organic Search,Direct-to-Consumer
+CUST-0347,49,Male,"Atlanta, GA",2024-09-23,Referral,Retail Member
+CUST-0348,36,Male,"Denver, CO",2025-07-25,Referral,Direct-to-Consumer
+CUST-0349,41,Male,"New York, NY",2025-05-16,Organic Search,Direct-to-Consumer
+CUST-0350,18,Female,"Boston, MA",2025-02-28,Organic Search,Direct-to-Consumer
+CUST-0351,34,Male,"Austin, TX",2025-07-07,Organic Search,Retail Member
+CUST-0352,30,Female,"Chicago, IL",2025-06-23,Email Marketing,Direct-to-Consumer
+CUST-0353,42,Male,"Atlanta, GA",2024-11-17,Referral,Direct-to-Consumer
+CUST-0354,47,Male,"Atlanta, GA",2024-09-04,Organic Search,Direct-to-Consumer
+CUST-0355,54,Male,"Atlanta, GA",2024-11-13,Google Ads,Direct-to-Consumer
+CUST-0356,70,Female,"Atlanta, GA",2024-07-28,Organic Search,Direct-to-Consumer
+CUST-0357,30,Male,"Houston, TX",2025-11-28,Organic Search,Direct-to-Consumer
+CUST-0358,35,Male,"Houston, TX",2024-09-06,Influencer,Direct-to-Consumer
+CUST-0359,23,Male,"Denver, CO",2025-12-03,Referral,Direct-to-Consumer
+CUST-0360,34,Female,"Boston, MA",2024-08-06,Referral,Direct-to-Consumer
+CUST-0361,43,Female,"Los Angeles, CA",2025-03-05,Organic Search,Direct-to-Consumer
+CUST-0362,23,Male,"Atlanta, GA",2024-07-10,Google Ads,Direct-to-Consumer
+CUST-0363,50,Male,"Chicago, IL",2024-09-18,Organic Search,Retail Member
+CUST-0364,23,Female,"Atlanta, GA",2025-06-10,Paid Social,Direct-to-Consumer
+CUST-0365,33,Female,"Boston, MA",2025-12-26,Email Marketing,Direct-to-Consumer
+CUST-0366,19,Male,"Boston, MA",2024-10-28,Referral,Direct-to-Consumer
+CUST-0367,24,Female,"Los Angeles, CA",2025-10-29,Email Marketing,Retail Member
+CUST-0368,21,Male,"New York, NY",2025-06-27,Referral,Direct-to-Consumer
+CUST-0369,41,Male,"Seattle, WA",2024-08-29,Paid Social,Small Business / Pro
+CUST-0370,54,Male,"New York, NY",2025-08-13,Paid Social,Direct-to-Consumer
+CUST-0371,54,Female,"Austin, TX",2025-06-23,Referral,Retail Member
+CUST-0372,48,Female,"Houston, TX",2025-02-10,Paid Social,Direct-to-Consumer
+CUST-0373,47,Female,"Los Angeles, CA",2025-06-13,Email Marketing,Retail Member
+CUST-0374,18,Female,"Miami, FL",2024-12-03,Google Ads,Direct-to-Consumer
+CUST-0375,51,Male,"Seattle, WA",2025-12-20,Influencer,Direct-to-Consumer
+CUST-0376,42,Male,"Boston, MA",2024-10-22,Influencer,Direct-to-Consumer
+CUST-0377,28,Female,"Houston, TX",2024-10-14,Paid Social,Retail Member
+CUST-0378,38,Male,"Austin, TX",2025-08-03,Organic Search,Retail Member
+CUST-0379,21,Female,"Boston, MA",2025-01-26,Influencer,Direct-to-Consumer
+CUST-0380,48,Female,"Chicago, IL",2025-11-09,Influencer,Retail Member
+CUST-0381,61,Female,"Houston, TX",2025-11-29,Google Ads,Small Business / Pro
+CUST-0382,30,Male,"Miami, FL",2025-02-17,Google Ads,Direct-to-Consumer
+CUST-0383,48,Male,"Atlanta, GA",2025-03-03,Organic Search,Direct-to-Consumer
+CUST-0384,32,Male,"Miami, FL",2024-10-02,Influencer,Direct-to-Consumer
+CUST-0385,37,Prefer not to say,"Seattle, WA",2024-08-27,Google Ads,Retail Member
+CUST-0386,25,Male,"New York, NY",2024-12-06,Paid Social,Direct-to-Consumer
+CUST-0387,32,Female,"New York, NY",2025-01-06,Organic Search,Direct-to-Consumer
+CUST-0388,47,Female,"Houston, TX",2025-06-08,Email Marketing,Direct-to-Consumer
+CUST-0389,49,Male,"Seattle, WA",2025-02-19,Referral,Direct-to-Consumer
+CUST-0390,31,Male,"Houston, TX",2026-01-08,Organic Search,Direct-to-Consumer
+CUST-0391,30,Female,"Miami, FL",2025-07-07,Email Marketing,Retail Member
+CUST-0392,44,Female,"Austin, TX",2025-06-15,Paid Social,Retail Member
+CUST-0393,38,Prefer not to say,"Denver, CO",2025-06-23,Email Marketing,Direct-to-Consumer
+CUST-0394,34,Female,"Miami, FL",2025-03-13,Influencer,Retail Member
+CUST-0395,33,Female,"Boston, MA",2025-04-15,Organic Search,Small Business / Pro
+CUST-0396,23,Female,"Austin, TX",2025-11-08,Influencer,Retail Member
+CUST-0397,28,Female,"Denver, CO",2025-09-28,Google Ads,Direct-to-Consumer
+CUST-0398,41,Female,"Boston, MA",2025-12-08,Paid Social,Direct-to-Consumer
+CUST-0399,45,Female,"Seattle, WA",2025-03-07,Google Ads,Direct-to-Consumer
+CUST-0400,52,Male,"Miami, FL",2024-10-23,Paid Social,Small Business / Pro
+CUST-0401,59,Female,"Los Angeles, CA",2025-10-19,Google Ads,Direct-to-Consumer
+CUST-0402,23,Male,"Boston, MA",2026-01-16,Organic Search,Direct-to-Consumer
+CUST-0403,52,Non-Binary,"Boston, MA",2025-10-26,Google Ads,Direct-to-Consumer
+CUST-0404,31,Male,"Seattle, WA",2025-06-19,Google Ads,Direct-to-Consumer
+CUST-0405,32,Male,"Atlanta, GA",2025-06-06,Organic Search,Direct-to-Consumer
+CUST-0406,30,Non-Binary,"Austin, TX",2024-12-22,Google Ads,Direct-to-Consumer
+CUST-0407,60,Female,"Miami, FL",2025-11-05,Paid Social,Direct-to-Consumer
+CUST-0408,42,Female,"Seattle, WA",2025-09-18,Organic Search,Direct-to-Consumer
+CUST-0409,24,Male,"Seattle, WA",2025-10-27,Influencer,Small Business / Pro
+CUST-0410,38,Male,"Atlanta, GA",2026-01-10,Paid Social,Retail Member
+CUST-0411,28,Male,"Austin, TX",2025-03-14,Referral,Direct-to-Consumer
+CUST-0412,27,Female,"Boston, MA",2025-11-08,Organic Search,Direct-to-Consumer
+CUST-0413,32,Male,"Seattle, WA",2025-08-20,Paid Social,Direct-to-Consumer
+CUST-0414,49,Female,"Boston, MA",2025-01-04,Influencer,Direct-to-Consumer
+CUST-0415,25,Female,"Miami, FL",2024-07-31,Paid Social,Retail Member
+CUST-0416,28,Female,"Los Angeles, CA",2024-08-23,Google Ads,Small Business / Pro
+CUST-0417,30,Male,"Austin, TX",2024-10-06,Google Ads,Retail Member
+CUST-0418,51,Male,"Austin, TX",2024-10-02,Google Ads,Direct-to-Consumer
+CUST-0419,27,Female,"New York, NY",2024-07-23,Organic Search,Direct-to-Consumer
+CUST-0420,43,Female,"New York, NY",2024-11-30,Referral,Direct-to-Consumer
+CUST-0421,25,Male,"Boston, MA",2024-11-18,Influencer,Direct-to-Consumer
+CUST-0422,31,Female,"Austin, TX",2024-09-10,Email Marketing,Direct-to-Consumer
+CUST-0423,36,Female,"New York, NY",2025-08-20,Influencer,Direct-to-Consumer
+CUST-0424,44,Non-Binary,"New York, NY",2026-01-10,Referral,Direct-to-Consumer
+CUST-0425,47,Female,"Houston, TX",2025-11-19,Paid Social,Direct-to-Consumer
+CUST-0426,41,Male,"Houston, TX",2025-05-14,Paid Social,Retail Member
+CUST-0427,28,Female,"New York, NY",2025-06-20,Influencer,Direct-to-Consumer
+CUST-0428,25,Prefer not to say,"Denver, CO",2025-01-11,Influencer,Direct-to-Consumer
+CUST-0429,23,Non-Binary,"Atlanta, GA",2024-08-23,Google Ads,Direct-to-Consumer
+CUST-0430,46,Female,"Boston, MA",2025-11-04,Referral,Retail Member
+CUST-0431,52,Male,"Boston, MA",2025-04-08,Organic Search,Direct-to-Consumer
+CUST-0432,37,Female,"Austin, TX",2025-02-01,Paid Social,Direct-to-Consumer
+CUST-0433,33,Male,"New York, NY",2024-07-14,Organic Search,Direct-to-Consumer
+CUST-0434,49,Female,"Atlanta, GA",2024-11-09,Email Marketing,Direct-to-Consumer
+CUST-0435,33,Male,"Boston, MA",2025-05-11,Organic Search,Retail Member
+CUST-0436,35,Male,"Denver, CO",2024-11-16,Paid Social,Direct-to-Consumer
+CUST-0437,44,Female,"Chicago, IL",2025-07-08,Email Marketing,Direct-to-Consumer
+CUST-0438,27,Female,"New York, NY",2024-08-31,Paid Social,Retail Member
+CUST-0439,27,Male,"Austin, TX",2025-01-03,Email Marketing,Retail Member
+CUST-0440,41,Male,"Chicago, IL",2025-12-17,Email Marketing,Direct-to-Consumer
+CUST-0441,46,Male,"Seattle, WA",2024-10-16,Organic Search,Retail Member
+CUST-0442,31,Female,"Los Angeles, CA",2025-12-31,Organic Search,Direct-to-Consumer
+CUST-0443,19,Male,"New York, NY",2025-07-09,Referral,Retail Member
+CUST-0444,33,Male,"Seattle, WA",2025-06-22,Paid Social,Retail Member
+CUST-0445,21,Female,"New York, NY",2024-09-07,Google Ads,Retail Member
+CUST-0446,24,Female,"Denver, CO",2025-07-26,Google Ads,Retail Member
+CUST-0447,23,Female,"Seattle, WA",2025-07-18,Influencer,Direct-to-Consumer
+CUST-0448,45,Male,"Boston, MA",2025-01-29,Google Ads,Direct-to-Consumer
+CUST-0449,40,Prefer not to say,"New York, NY",2025-05-12,Referral,Direct-to-Consumer
+CUST-0450,34,Female,"Miami, FL",2024-12-13,Google Ads,Small Business / Pro
+CUST-0451,24,Female,"Houston, TX",2025-09-16,Email Marketing,Retail Member
+CUST-0452,38,Male,"New York, NY",2025-02-23,Paid Social,Direct-to-Consumer
+CUST-0453,24,Male,"Austin, TX",2024-10-10,Paid Social,Direct-to-Consumer
+CUST-0454,18,Female,"Houston, TX",2025-08-11,Organic Search,Direct-to-Consumer
+CUST-0455,38,Female,"Atlanta, GA",2024-09-16,Organic Search,Retail Member
+CUST-0456,39,Non-Binary,"Chicago, IL",2025-10-05,Google Ads,Direct-to-Consumer
+CUST-0457,58,Male,"Austin, TX",2024-11-19,Referral,Retail Member
+CUST-0458,29,Female,"Austin, TX",2025-01-31,Google Ads,Retail Member
+CUST-0459,24,Male,"Boston, MA",2025-08-23,Organic Search,Direct-to-Consumer
+CUST-0460,32,Female,"Boston, MA",2025-06-18,Organic Search,Retail Member
+CUST-0461,56,Male,"Houston, TX",2024-10-21,Organic Search,Direct-to-Consumer
+CUST-0462,38,Male,"Denver, CO",2024-08-31,Paid Social,Direct-to-Consumer
+CUST-0463,52,Female,"Boston, MA",2025-03-14,Influencer,Direct-to-Consumer
+CUST-0464,19,Female,"Los Angeles, CA",2024-11-24,Paid Social,Direct-to-Consumer
+CUST-0465,28,Male,"Atlanta, GA",2025-08-28,Organic Search,Direct-to-Consumer
+CUST-0466,18,Female,"Boston, MA",2024-09-13,Organic Search,Direct-to-Consumer
+CUST-0467,47,Female,"Chicago, IL",2024-10-14,Organic Search,Retail Member
+CUST-0468,40,Prefer not to say,"Miami, FL",2024-10-25,Paid Social,Direct-to-Consumer
+CUST-0469,31,Female,"Chicago, IL",2025-07-13,Google Ads,Direct-to-Consumer
+CUST-0470,19,Male,"Boston, MA",2025-11-16,Paid Social,Direct-to-Consumer
+CUST-0471,68,Male,"Miami, FL",2026-01-04,Paid Social,Direct-to-Consumer
+CUST-0472,38,Female,"New York, NY",2025-10-03,Paid Social,Direct-to-Consumer
+CUST-0473,45,Female,"Miami, FL",2024-12-12,Paid Social,Direct-to-Consumer
+CUST-0474,25,Male,"Austin, TX",2025-07-05,Google Ads,Direct-to-Consumer
+CUST-0475,19,Female,"Austin, TX",2025-12-20,Email Marketing,Direct-to-Consumer
+CUST-0476,30,Male,"Houston, TX",2025-09-23,Paid Social,Direct-to-Consumer
+CUST-0477,59,Female,"Seattle, WA",2025-06-09,Paid Social,Direct-to-Consumer
+CUST-0478,26,Female,"Atlanta, GA",2025-09-22,Referral,Retail Member
+CUST-0479,35,Female,"Houston, TX",2025-11-05,Referral,Direct-to-Consumer
+CUST-0480,41,Male,"Los Angeles, CA",2025-09-03,Organic Search,Direct-to-Consumer
+CUST-0481,49,Male,"Chicago, IL",2024-12-12,Paid Social,Direct-to-Consumer
+CUST-0482,28,Female,"Los Angeles, CA",2024-09-04,Paid Social,Direct-to-Consumer
+CUST-0483,31,Non-Binary,"Denver, CO",2025-09-09,Organic Search,Direct-to-Consumer
+CUST-0484,40,Male,"Los Angeles, CA",2024-10-28,Organic Search,Retail Member
+CUST-0485,43,Female,"Denver, CO",2025-03-13,Organic Search,Direct-to-Consumer
+CUST-0486,23,Prefer not to say,"Chicago, IL",2026-01-19,Organic Search,Retail Member
+CUST-0487,33,Female,"Boston, MA",2024-10-29,Influencer,Direct-to-Consumer
+CUST-0488,32,Male,"Seattle, WA",2025-03-19,Organic Search,Direct-to-Consumer
+CUST-0489,36,Female,"Atlanta, GA",2025-11-12,Paid Social,Direct-to-Consumer
+CUST-0490,31,Male,"Denver, CO",2025-11-04,Paid Social,Direct-to-Consumer
+CUST-0491,33,Female,"Los Angeles, CA",2025-03-01,Referral,Retail Member
+CUST-0492,32,Male,"Los Angeles, CA",2024-10-09,Referral,Direct-to-Consumer
+CUST-0493,40,Female,"Miami, FL",2025-04-11,Paid Social,Direct-to-Consumer
+CUST-0494,50,Male,"Denver, CO",2025-09-10,Email Marketing,Direct-to-Consumer
+CUST-0495,45,Prefer not to say,"Denver, CO",2025-10-12,Referral,Direct-to-Consumer
+CUST-0496,43,Non-Binary,"Chicago, IL",2024-09-23,Referral,Direct-to-Consumer
+CUST-0497,33,Female,"Miami, FL",2024-08-06,Organic Search,Direct-to-Consumer
+CUST-0498,49,Male,"Miami, FL",2025-08-27,Organic Search,Direct-to-Consumer
+CUST-0499,28,Female,"Houston, TX",2025-11-05,Referral,Retail Member
+CUST-0500,18,Female,"New York, NY",2025-12-31,Paid Social,Direct-to-Consumer
+CUST-0501,50,Female,"Los Angeles, CA",2024-09-25,Influencer,Direct-to-Consumer
+CUST-0502,38,Female,"New York, NY",2025-02-06,Paid Social,Direct-to-Consumer
+CUST-0503,18,Female,"New York, NY",2025-02-24,Google Ads,Direct-to-Consumer
+CUST-0504,26,Female,"Chicago, IL",2024-09-28,Organic Search,Direct-to-Consumer
+CUST-0505,44,Female,"Chicago, IL",2024-12-05,Organic Search,Retail Member
+CUST-0506,37,Male,"Atlanta, GA",2025-10-22,Paid Social,Direct-to-Consumer
+CUST-0507,24,Female,"Denver, CO",2025-12-20,Google Ads,Direct-to-Consumer
+CUST-0508,33,Female,"Atlanta, GA",2025-12-27,Google Ads,Retail Member
+CUST-0509,28,Female,"Boston, MA",2025-12-20,Email Marketing,Direct-to-Consumer
+CUST-0510,40,Male,"Seattle, WA",2024-09-24,Google Ads,Direct-to-Consumer
+CUST-0511,23,Male,"Miami, FL",2025-03-06,Email Marketing,Small Business / Pro
+CUST-0512,37,Male,"Seattle, WA",2024-11-21,Organic Search,Direct-to-Consumer
+CUST-0513,21,Male,"New York, NY",2026-01-24,Paid Social,Direct-to-Consumer
+CUST-0514,37,Non-Binary,"Miami, FL",2024-11-13,Organic Search,Direct-to-Consumer
+CUST-0515,43,Female,"Chicago, IL",2025-08-05,Organic Search,Direct-to-Consumer
+CUST-0516,47,Male,"Chicago, IL",2024-11-28,Influencer,Retail Member
+CUST-0517,39,Female,"Austin, TX",2025-05-15,Google Ads,Direct-to-Consumer
+CUST-0518,28,Male,"Boston, MA",2024-08-15,Google Ads,Small Business / Pro
+CUST-0519,28,Male,"Los Angeles, CA",2025-06-26,Paid Social,Direct-to-Consumer
+CUST-0520,32,Female,"Los Angeles, CA",2024-08-18,Referral,Direct-to-Consumer
+CUST-0521,36,Male,"Atlanta, GA",2024-09-09,Google Ads,Direct-to-Consumer
+CUST-0522,28,Male,"Los Angeles, CA",2025-04-08,Google Ads,Direct-to-Consumer
+CUST-0523,36,Female,"Austin, TX",2026-01-14,Google Ads,Direct-to-Consumer
+CUST-0524,30,Female,"Atlanta, GA",2025-04-13,Google Ads,Direct-to-Consumer
+CUST-0525,32,Female,"Miami, FL",2025-05-08,Organic Search,Retail Member
+CUST-0526,42,Prefer not to say,"Seattle, WA",2025-12-03,Organic Search,Direct-to-Consumer
+CUST-0527,64,Non-Binary,"Atlanta, GA",2025-12-14,Organic Search,Retail Member
+CUST-0528,41,Male,"Miami, FL",2025-05-15,Organic Search,Retail Member
+CUST-0529,37,Female,"Houston, TX",2024-09-16,Paid Social,Direct-to-Consumer
+CUST-0530,26,Male,"Los Angeles, CA",2024-11-20,Organic Search,Direct-to-Consumer
+CUST-0531,31,Female,"Denver, CO",2025-12-25,Organic Search,Small Business / Pro
+CUST-0532,37,Female,"Miami, FL",2025-07-30,Organic Search,Direct-to-Consumer
+CUST-0533,28,Female,"Chicago, IL",2025-10-04,Google Ads,Direct-to-Consumer
+CUST-0534,37,Male,"Austin, TX",2025-07-03,Referral,Direct-to-Consumer
+CUST-0535,43,Female,"Chicago, IL",2024-12-24,Referral,Direct-to-Consumer
+CUST-0536,21,Male,"Seattle, WA",2025-11-15,Influencer,Retail Member
+CUST-0537,23,Female,"Chicago, IL",2024-10-22,Organic Search,Direct-to-Consumer
+CUST-0538,29,Male,"Atlanta, GA",2025-02-16,Influencer,Direct-to-Consumer
+CUST-0539,37,Male,"New York, NY",2025-04-25,Influencer,Retail Member
+CUST-0540,30,Female,"Atlanta, GA",2025-03-16,Organic Search,Direct-to-Consumer
+CUST-0541,29,Female,"Atlanta, GA",2026-01-08,Influencer,Direct-to-Consumer
+CUST-0542,24,Non-Binary,"Los Angeles, CA",2024-09-08,Paid Social,Direct-to-Consumer
+CUST-0543,48,Female,"Atlanta, GA",2025-05-29,Google Ads,Direct-to-Consumer
+CUST-0544,51,Female,"Atlanta, GA",2024-08-03,Organic Search,Small Business / Pro
+CUST-0545,41,Female,"Austin, TX",2025-02-20,Organic Search,Direct-to-Consumer
+CUST-0546,36,Female,"Boston, MA",2025-01-11,Paid Social,Retail Member
+CUST-0547,64,Male,"Chicago, IL",2025-12-12,Paid Social,Direct-to-Consumer
+CUST-0548,25,Non-Binary,"Denver, CO",2024-07-27,Google Ads,Retail Member
+CUST-0549,34,Female,"Miami, FL",2025-04-02,Email Marketing,Retail Member
+CUST-0550,29,Male,"New York, NY",2025-12-10,Referral,Direct-to-Consumer
+CUST-0551,50,Female,"Miami, FL",2025-03-12,Organic Search,Direct-to-Consumer
+CUST-0552,18,Male,"Denver, CO",2025-05-25,Referral,Direct-to-Consumer
+CUST-0553,24,Female,"Seattle, WA",2025-11-13,Referral,Retail Member
+CUST-0554,33,Male,"Los Angeles, CA",2024-10-10,Organic Search,Direct-to-Consumer
+CUST-0555,43,Female,"Chicago, IL",2025-03-19,Organic Search,Direct-to-Consumer
+CUST-0556,53,Male,"Houston, TX",2025-02-03,Paid Social,Direct-to-Consumer
+CUST-0557,57,Male,"New York, NY",2025-02-07,Paid Social,Retail Member
+CUST-0558,47,Female,"Atlanta, GA",2025-11-19,Organic Search,Direct-to-Consumer
+CUST-0559,46,Female,"Los Angeles, CA",2024-09-30,Organic Search,Direct-to-Consumer
+CUST-0560,26,Female,"Chicago, IL",2024-10-22,Referral,Direct-to-Consumer
+CUST-0561,32,Male,"Atlanta, GA",2024-09-25,Google Ads,Direct-to-Consumer
+CUST-0562,29,Male,"Los Angeles, CA",2025-06-09,Referral,Direct-to-Consumer
+CUST-0563,47,Male,"Chicago, IL",2024-09-22,Paid Social,Direct-to-Consumer
+CUST-0564,45,Female,"Los Angeles, CA",2025-02-05,Google Ads,Direct-to-Consumer
+CUST-0565,57,Female,"Miami, FL",2025-04-04,Organic Search,Direct-to-Consumer
+CUST-0566,22,Female,"Denver, CO",2024-07-16,Paid Social,Direct-to-Consumer
+CUST-0567,46,Female,"Boston, MA",2024-12-24,Paid Social,Direct-to-Consumer
+CUST-0568,32,Male,"Austin, TX",2025-05-14,Google Ads,Retail Member
+CUST-0569,29,Female,"Boston, MA",2025-07-26,Paid Social,Retail Member
+CUST-0570,36,Female,"Atlanta, GA",2025-09-21,Organic Search,Retail Member
+CUST-0571,18,Male,"Atlanta, GA",2025-03-14,Google Ads,Direct-to-Consumer
+CUST-0572,21,Non-Binary,"Miami, FL",2024-09-16,Organic Search,Direct-to-Consumer
+CUST-0573,45,Female,"Los Angeles, CA",2025-07-17,Organic Search,Direct-to-Consumer
+CUST-0574,32,Male,"Miami, FL",2024-08-09,Organic Search,Direct-to-Consumer
+CUST-0575,24,Male,"Austin, TX",2024-10-06,Google Ads,Small Business / Pro
+CUST-0576,18,Male,"Atlanta, GA",2025-11-24,Referral,Direct-to-Consumer
+CUST-0577,38,Male,"Houston, TX",2024-08-15,Organic Search,Retail Member
+CUST-0578,31,Male,"Seattle, WA",2025-08-05,Organic Search,Direct-to-Consumer
+CUST-0579,38,Female,"Miami, FL",2025-08-14,Referral,Direct-to-Consumer
+CUST-0580,38,Male,"Los Angeles, CA",2025-06-15,Email Marketing,Direct-to-Consumer
+CUST-0581,37,Female,"Chicago, IL",2024-09-21,Organic Search,Direct-to-Consumer
+CUST-0582,26,Female,"Chicago, IL",2025-11-02,Organic Search,Direct-to-Consumer
+CUST-0583,31,Male,"Miami, FL",2025-07-09,Organic Search,Direct-to-Consumer
+CUST-0584,43,Male,"Chicago, IL",2025-05-24,Organic Search,Retail Member
+CUST-0585,49,Female,"Atlanta, GA",2024-11-14,Email Marketing,Direct-to-Consumer
+CUST-0586,35,Female,"Houston, TX",2025-08-04,Google Ads,Direct-to-Consumer
+CUST-0587,56,Male,"Houston, TX",2024-10-27,Paid Social,Direct-to-Consumer
+CUST-0588,42,Male,"New York, NY",2025-12-23,Organic Search,Direct-to-Consumer
+CUST-0589,33,Female,"Los Angeles, CA",2025-05-14,Paid Social,Direct-to-Consumer
+CUST-0590,31,Non-Binary,"Atlanta, GA",2024-09-15,Paid Social,Direct-to-Consumer
+CUST-0591,44,Prefer not to say,"Atlanta, GA",2025-02-01,Google Ads,Direct-to-Consumer
+CUST-0592,33,Male,"Atlanta, GA",2025-02-07,Organic Search,Direct-to-Consumer
+CUST-0593,18,Male,"Houston, TX",2024-10-28,Referral,Direct-to-Consumer
+CUST-0594,20,Male,"Boston, MA",2025-09-10,Paid Social,Direct-to-Consumer
+CUST-0595,35,Male,"Los Angeles, CA",2024-12-22,Paid Social,Retail Member
+CUST-0596,26,Female,"Chicago, IL",2025-08-04,Organic Search,Direct-to-Consumer
+CUST-0597,28,Female,"New York, NY",2025-02-27,Referral,Direct-to-Consumer
+CUST-0598,49,Male,"Houston, TX",2025-05-01,Organic Search,Direct-to-Consumer
+CUST-0599,45,Female,"Miami, FL",2025-06-02,Email Marketing,Direct-to-Consumer
+CUST-0600,54,Female,"Los Angeles, CA",2024-10-01,Organic Search,Direct-to-Consumer
+CUST-0601,38,Female,"Miami, FL",2025-07-11,Google Ads,Retail Member
+CUST-0602,48,Male,"Chicago, IL",2025-11-06,Google Ads,Small Business / Pro
+CUST-0603,35,Male,"New York, NY",2025-11-25,Email Marketing,Direct-to-Consumer
+CUST-0604,52,Male,"Atlanta, GA",2024-11-11,Paid Social,Direct-to-Consumer
+CUST-0605,38,Male,"Seattle, WA",2025-11-12,Influencer,Direct-to-Consumer
+CUST-0606,47,Male,"Miami, FL",2025-10-25,Paid Social,Direct-to-Consumer
+CUST-0607,29,Female,"Houston, TX",2025-09-12,Google Ads,Direct-to-Consumer
+CUST-0608,22,Female,"Los Angeles, CA",2025-09-16,Paid Social,Direct-to-Consumer
+CUST-0609,41,Female,"Denver, CO",2024-09-21,Email Marketing,Direct-to-Consumer
+CUST-0610,29,Male,"Seattle, WA",2024-10-03,Organic Search,Direct-to-Consumer
+CUST-0611,37,Female,"Seattle, WA",2025-11-12,Email Marketing,Direct-to-Consumer
+CUST-0612,31,Female,"Miami, FL",2024-12-21,Organic Search,Direct-to-Consumer
+CUST-0613,26,Female,"Miami, FL",2024-12-11,Referral,Direct-to-Consumer
+CUST-0614,29,Female,"Austin, TX",2025-08-19,Referral,Direct-to-Consumer
+CUST-0615,30,Female,"Los Angeles, CA",2025-12-02,Organic Search,Small Business / Pro
+CUST-0616,20,Female,"Boston, MA",2025-10-26,Organic Search,Direct-to-Consumer
+CUST-0617,49,Female,"Miami, FL",2025-02-16,Google Ads,Retail Member
+CUST-0618,34,Male,"Los Angeles, CA",2025-07-31,Google Ads,Retail Member
+CUST-0619,32,Male,"Atlanta, GA",2026-01-15,Google Ads,Direct-to-Consumer
+CUST-0620,45,Male,"Boston, MA",2025-01-05,Email Marketing,Direct-to-Consumer
+CUST-0621,18,Female,"Chicago, IL",2025-07-09,Google Ads,Direct-to-Consumer
+CUST-0622,39,Non-Binary,"Atlanta, GA",2025-12-15,Paid Social,Retail Member
+CUST-0623,34,Male,"Los Angeles, CA",2025-03-30,Google Ads,Direct-to-Consumer
+CUST-0624,20,Female,"Seattle, WA",2024-08-22,Referral,Direct-to-Consumer
+CUST-0625,37,Female,"Seattle, WA",2025-02-04,Organic Search,Direct-to-Consumer
+CUST-0626,29,Female,"New York, NY",2025-06-01,Email Marketing,Direct-to-Consumer
+CUST-0627,43,Female,"New York, NY",2025-09-21,Google Ads,Direct-to-Consumer
+CUST-0628,29,Male,"Austin, TX",2024-10-19,Paid Social,Direct-to-Consumer
+CUST-0629,34,Male,"New York, NY",2025-11-04,Email Marketing,Direct-to-Consumer
+CUST-0630,47,Female,"Houston, TX",2025-01-05,Google Ads,Retail Member
+CUST-0631,19,Male,"Houston, TX",2025-02-19,Paid Social,Direct-to-Consumer
+CUST-0632,27,Non-Binary,"Los Angeles, CA",2024-09-23,Google Ads,Direct-to-Consumer
+CUST-0633,37,Male,"New York, NY",2025-11-28,Email Marketing,Direct-to-Consumer
+CUST-0634,45,Male,"Austin, TX",2025-12-01,Referral,Retail Member
+CUST-0635,40,Female,"Boston, MA",2025-09-20,Referral,Direct-to-Consumer
+CUST-0636,48,Male,"Seattle, WA",2025-08-21,Organic Search,Retail Member
+CUST-0637,20,Female,"Boston, MA",2025-09-17,Google Ads,Direct-to-Consumer
+CUST-0638,38,Non-Binary,"Boston, MA",2024-10-14,Google Ads,Retail Member
+CUST-0639,60,Male,"Boston, MA",2024-10-16,Paid Social,Direct-to-Consumer
+CUST-0640,43,Female,"Los Angeles, CA",2025-04-15,Referral,Direct-to-Consumer
+CUST-0641,52,Prefer not to say,"Chicago, IL",2024-08-25,Google Ads,Direct-to-Consumer
+CUST-0642,44,Female,"Los Angeles, CA",2024-08-10,Email Marketing,Direct-to-Consumer
+CUST-0643,24,Male,"Chicago, IL",2025-10-24,Email Marketing,Direct-to-Consumer
+CUST-0644,29,Male,"Austin, TX",2024-08-11,Paid Social,Retail Member
+CUST-0645,52,Female,"Chicago, IL",2025-10-15,Paid Social,Direct-to-Consumer
+CUST-0646,33,Male,"Atlanta, GA",2025-04-24,Referral,Small Business / Pro
+CUST-0647,26,Female,"Boston, MA",2024-10-28,Organic Search,Direct-to-Consumer
+CUST-0648,47,Male,"Boston, MA",2024-11-15,Organic Search,Retail Member
+CUST-0649,28,Female,"Boston, MA",2024-12-15,Referral,Retail Member
+CUST-0650,51,Male,"Los Angeles, CA",2025-07-03,Organic Search,Direct-to-Consumer
+CUST-0651,35,Female,"Atlanta, GA",2026-01-14,Google Ads,Direct-to-Consumer
+CUST-0652,42,Male,"Boston, MA",2024-10-04,Referral,Direct-to-Consumer
+CUST-0653,34,Male,"Seattle, WA",2024-07-18,Paid Social,Direct-to-Consumer
+CUST-0654,26,Female,"Miami, FL",2025-02-25,Influencer,Direct-to-Consumer
+CUST-0655,49,Female,"Seattle, WA",2025-01-06,Organic Search,Direct-to-Consumer
+CUST-0656,35,Male,"Seattle, WA",2025-04-25,Referral,Direct-to-Consumer
+CUST-0657,29,Female,"New York, NY",2024-10-30,Referral,Retail Member
+CUST-0658,26,Female,"Boston, MA",2025-04-08,Paid Social,Retail Member
+CUST-0659,37,Female,"Miami, FL",2024-08-03,Paid Social,Direct-to-Consumer
+CUST-0660,35,Female,"Miami, FL",2024-07-28,Influencer,Direct-to-Consumer
+CUST-0661,33,Male,"Chicago, IL",2024-12-10,Paid Social,Direct-to-Consumer
+CUST-0662,23,Female,"Austin, TX",2025-09-15,Paid Social,Small Business / Pro
+CUST-0663,38,Male,"Denver, CO",2024-12-18,Paid Social,Direct-to-Consumer
+CUST-0664,47,Female,"Chicago, IL",2025-04-12,Paid Social,Direct-to-Consumer
+CUST-0665,42,Female,"Los Angeles, CA",2025-11-20,Google Ads,Direct-to-Consumer
+CUST-0666,35,Female,"Chicago, IL",2025-05-02,Email Marketing,Direct-to-Consumer
+CUST-0667,25,Female,"Los Angeles, CA",2024-09-18,Google Ads,Direct-to-Consumer
+CUST-0668,44,Male,"Boston, MA",2025-10-20,Paid Social,Direct-to-Consumer
+CUST-0669,44,Female,"Austin, TX",2024-10-14,Email Marketing,Direct-to-Consumer
+CUST-0670,42,Female,"Los Angeles, CA",2025-01-19,Google Ads,Direct-to-Consumer
+CUST-0671,27,Male,"Houston, TX",2026-01-05,Referral,Small Business / Pro
+CUST-0672,23,Prefer not to say,"Austin, TX",2024-09-07,Paid Social,Direct-to-Consumer
+CUST-0673,40,Non-Binary,"Houston, TX",2025-02-14,Referral,Direct-to-Consumer
+CUST-0674,41,Female,"Boston, MA",2025-01-24,Paid Social,Direct-to-Consumer
+CUST-0675,18,Male,"Denver, CO",2025-10-09,Organic Search,Small Business / Pro
+CUST-0676,29,Male,"Boston, MA",2025-10-14,Referral,Direct-to-Consumer
+CUST-0677,42,Female,"Denver, CO",2025-10-03,Referral,Small Business / Pro
+CUST-0678,38,Female,"Atlanta, GA",2024-12-13,Organic Search,Direct-to-Consumer
+CUST-0679,22,Prefer not to say,"Los Angeles, CA",2025-11-12,Referral,Small Business / Pro
+CUST-0680,21,Female,"Houston, TX",2025-10-07,Paid Social,Retail Member
+CUST-0681,24,Male,"Houston, TX",2024-11-17,Organic Search,Direct-to-Consumer
+CUST-0682,23,Female,"Houston, TX",2025-11-08,Paid Social,Direct-to-Consumer
+CUST-0683,36,Non-Binary,"Denver, CO",2025-07-30,Referral,Direct-to-Consumer
+CUST-0684,39,Female,"Miami, FL",2024-10-18,Organic Search,Direct-to-Consumer
+CUST-0685,18,Non-Binary,"Denver, CO",2025-09-27,Organic Search,Direct-to-Consumer
+CUST-0686,41,Prefer not to say,"Chicago, IL",2025-01-01,Paid Social,Direct-to-Consumer
+CUST-0687,31,Non-Binary,"Houston, TX",2024-09-03,Referral,Direct-to-Consumer
+CUST-0688,55,Male,"Miami, FL",2025-03-11,Organic Search,Retail Member
+CUST-0689,32,Female,"Houston, TX",2024-08-22,Email Marketing,Direct-to-Consumer
+CUST-0690,40,Female,"New York, NY",2025-12-10,Email Marketing,Direct-to-Consumer
+CUST-0691,32,Female,"Houston, TX",2025-12-28,Google Ads,Direct-to-Consumer
+CUST-0692,33,Female,"Houston, TX",2024-08-27,Influencer,Direct-to-Consumer
+CUST-0693,35,Female,"Austin, TX",2024-12-18,Paid Social,Direct-to-Consumer
+CUST-0694,39,Male,"Austin, TX",2024-12-20,Organic Search,Small Business / Pro
+CUST-0695,56,Female,"New York, NY",2025-11-08,Organic Search,Direct-to-Consumer
+CUST-0696,43,Female,"Denver, CO",2024-10-02,Paid Social,Direct-to-Consumer
+CUST-0697,25,Male,"New York, NY",2025-01-03,Paid Social,Direct-to-Consumer
+CUST-0698,37,Male,"Miami, FL",2024-09-12,Google Ads,Small Business / Pro
+CUST-0699,44,Male,"Austin, TX",2024-08-04,Paid Social,Small Business / Pro
+CUST-0700,29,Male,"New York, NY",2025-07-07,Google Ads,Retail Member
+CUST-0701,24,Male,"Seattle, WA",2025-11-22,Organic Search,Direct-to-Consumer
+CUST-0702,24,Male,"Denver, CO",2025-01-13,Influencer,Direct-to-Consumer
+CUST-0703,45,Female,"Los Angeles, CA",2025-04-16,Influencer,Direct-to-Consumer
+CUST-0704,45,Female,"Boston, MA",2025-03-07,Google Ads,Direct-to-Consumer
+CUST-0705,40,Male,"New York, NY",2024-11-19,Email Marketing,Small Business / Pro
+CUST-0706,18,Female,"Miami, FL",2025-12-26,Organic Search,Direct-to-Consumer
+CUST-0707,30,Female,"Boston, MA",2025-11-20,Google Ads,Direct-to-Consumer
+CUST-0708,26,Male,"Chicago, IL",2025-04-12,Paid Social,Direct-to-Consumer
+CUST-0709,51,Female,"Chicago, IL",2025-06-19,Paid Social,Retail Member
+CUST-0710,32,Female,"New York, NY",2025-03-07,Paid Social,Direct-to-Consumer
+CUST-0711,37,Female,"Los Angeles, CA",2024-10-01,Email Marketing,Direct-to-Consumer
+CUST-0712,60,Female,"Los Angeles, CA",2025-01-05,Paid Social,Direct-to-Consumer
+CUST-0713,41,Male,"Denver, CO",2025-05-06,Google Ads,Direct-to-Consumer
+CUST-0714,18,Male,"Houston, TX",2025-08-02,Influencer,Direct-to-Consumer
+CUST-0715,39,Male,"Miami, FL",2024-12-08,Organic Search,Direct-to-Consumer
+CUST-0716,18,Male,"Atlanta, GA",2026-01-30,Referral,Direct-to-Consumer
+CUST-0717,29,Female,"Miami, FL",2024-10-23,Paid Social,Direct-to-Consumer
+CUST-0718,30,Prefer not to say,"Houston, TX",2025-11-21,Referral,Retail Member
+CUST-0719,36,Male,"Seattle, WA",2024-09-05,Google Ads,Retail Member
+CUST-0720,38,Female,"Seattle, WA",2024-09-20,Paid Social,Direct-to-Consumer
+CUST-0721,30,Female,"New York, NY",2026-01-24,Paid Social,Retail Member
+CUST-0722,40,Female,"Denver, CO",2024-08-05,Paid Social,Retail Member
+CUST-0723,32,Male,"Denver, CO",2024-09-20,Referral,Direct-to-Consumer
+CUST-0724,36,Female,"Seattle, WA",2025-02-10,Paid Social,Direct-to-Consumer
+CUST-0725,41,Male,"Seattle, WA",2025-02-28,Organic Search,Direct-to-Consumer
+CUST-0726,31,Male,"Los Angeles, CA",2025-07-20,Organic Search,Direct-to-Consumer
+CUST-0727,42,Female,"Chicago, IL",2025-06-03,Referral,Small Business / Pro
+CUST-0728,36,Male,"Miami, FL",2026-01-03,Organic Search,Direct-to-Consumer
+CUST-0729,44,Female,"Denver, CO",2025-02-14,Google Ads,Direct-to-Consumer
+CUST-0730,45,Female,"Boston, MA",2024-08-11,Referral,Direct-to-Consumer
+CUST-0731,61,Female,"Miami, FL",2025-11-11,Influencer,Direct-to-Consumer
+CUST-0732,31,Male,"Los Angeles, CA",2024-10-09,Paid Social,Direct-to-Consumer
+CUST-0733,29,Male,"Los Angeles, CA",2024-08-15,Google Ads,Direct-to-Consumer
+CUST-0734,39,Female,"Denver, CO",2025-11-28,Google Ads,Direct-to-Consumer
+CUST-0735,30,Male,"Austin, TX",2024-09-25,Google Ads,Direct-to-Consumer
+CUST-0736,29,Female,"Los Angeles, CA",2025-10-21,Organic Search,Direct-to-Consumer
+CUST-0737,18,Female,"Miami, FL",2025-10-16,Email Marketing,Retail Member
+CUST-0738,43,Male,"Boston, MA",2024-09-10,Organic Search,Direct-to-Consumer
+CUST-0739,31,Female,"Miami, FL",2025-06-06,Referral,Direct-to-Consumer
+CUST-0740,29,Male,"Seattle, WA",2025-07-21,Paid Social,Direct-to-Consumer
+CUST-0741,41,Male,"Seattle, WA",2024-10-31,Organic Search,Direct-to-Consumer
+CUST-0742,50,Female,"Seattle, WA",2025-12-01,Organic Search,Direct-to-Consumer
+CUST-0743,44,Male,"Chicago, IL",2024-10-09,Paid Social,Retail Member
+CUST-0744,39,Male,"Houston, TX",2025-11-26,Organic Search,Direct-to-Consumer
+CUST-0745,49,Male,"Los Angeles, CA",2025-07-12,Referral,Small Business / Pro
+CUST-0746,31,Female,"Houston, TX",2024-09-01,Influencer,Direct-to-Consumer
+CUST-0747,47,Male,"Boston, MA",2025-05-31,Paid Social,Direct-to-Consumer
+CUST-0748,41,Female,"New York, NY",2024-11-21,Organic Search,Retail Member
+CUST-0749,36,Male,"Boston, MA",2025-07-29,Google Ads,Direct-to-Consumer
+CUST-0750,35,Non-Binary,"Denver, CO",2025-03-09,Paid Social,Direct-to-Consumer
+CUST-0751,32,Male,"Austin, TX",2024-10-25,Referral,Direct-to-Consumer
+CUST-0752,23,Male,"Los Angeles, CA",2025-10-30,Google Ads,Direct-to-Consumer
+CUST-0753,41,Female,"Houston, TX",2024-11-28,Organic Search,Direct-to-Consumer
+CUST-0754,52,Male,"Denver, CO",2025-10-15,Organic Search,Direct-to-Consumer
+CUST-0755,56,Female,"Atlanta, GA",2025-05-12,Google Ads,Direct-to-Consumer
+CUST-0756,31,Female,"Chicago, IL",2025-06-10,Referral,Direct-to-Consumer
+CUST-0757,39,Female,"Boston, MA",2025-01-30,Paid Social,Retail Member
+CUST-0758,43,Male,"Miami, FL",2024-11-16,Organic Search,Direct-to-Consumer
+CUST-0759,31,Male,"Los Angeles, CA",2024-08-28,Google Ads,Retail Member
+CUST-0760,37,Male,"Houston, TX",2025-10-05,Influencer,Direct-to-Consumer
+CUST-0761,43,Female,"Atlanta, GA",2024-09-08,Referral,Retail Member
+CUST-0762,32,Female,"Boston, MA",2024-10-24,Organic Search,Small Business / Pro
+CUST-0763,43,Female,"Atlanta, GA",2025-09-23,Email Marketing,Small Business / Pro
+CUST-0764,27,Female,"Los Angeles, CA",2024-08-03,Paid Social,Direct-to-Consumer
+CUST-0765,28,Male,"Miami, FL",2025-11-28,Email Marketing,Direct-to-Consumer
+CUST-0766,40,Male,"Atlanta, GA",2024-10-18,Organic Search,Direct-to-Consumer
+CUST-0767,25,Male,"Denver, CO",2025-02-10,Paid Social,Direct-to-Consumer
+CUST-0768,33,Female,"Atlanta, GA",2025-02-25,Organic Search,Direct-to-Consumer
+CUST-0769,23,Female,"Houston, TX",2025-11-09,Influencer,Retail Member
+CUST-0770,32,Female,"Atlanta, GA",2024-07-31,Organic Search,Direct-to-Consumer
+CUST-0771,48,Female,"New York, NY",2025-10-07,Organic Search,Direct-to-Consumer
+CUST-0772,18,Female,"New York, NY",2025-10-09,Organic Search,Direct-to-Consumer
+CUST-0773,40,Female,"Austin, TX",2024-12-24,Google Ads,Direct-to-Consumer
+CUST-0774,42,Female,"Chicago, IL",2024-12-23,Referral,Small Business / Pro
+CUST-0775,31,Female,"Houston, TX",2026-01-07,Paid Social,Direct-to-Consumer
+CUST-0776,49,Female,"Atlanta, GA",2025-08-26,Paid Social,Retail Member
+CUST-0777,23,Female,"New York, NY",2025-07-28,Email Marketing,Small Business / Pro
+CUST-0778,47,Prefer not to say,"Los Angeles, CA",2025-01-14,Organic Search,Direct-to-Consumer
+CUST-0779,45,Female,"Atlanta, GA",2025-01-19,Organic Search,Direct-to-Consumer
+CUST-0780,37,Male,"Houston, TX",2025-02-08,Organic Search,Retail Member
+CUST-0781,30,Male,"Chicago, IL",2025-02-15,Organic Search,Retail Member
+CUST-0782,34,Female,"Atlanta, GA",2024-12-26,Influencer,Direct-to-Consumer
+CUST-0783,22,Prefer not to say,"Miami, FL",2024-10-02,Paid Social,Direct-to-Consumer
+CUST-0784,32,Female,"Los Angeles, CA",2025-01-29,Google Ads,Retail Member
+CUST-0785,55,Male,"Atlanta, GA",2025-08-07,Google Ads,Direct-to-Consumer
+CUST-0786,25,Female,"Miami, FL",2025-11-25,Influencer,Direct-to-Consumer
+CUST-0787,32,Male,"Boston, MA",2025-01-27,Email Marketing,Direct-to-Consumer
+CUST-0788,50,Male,"Miami, FL",2025-01-27,Paid Social,Direct-to-Consumer
+CUST-0789,32,Female,"Denver, CO",2025-02-21,Organic Search,Retail Member
+CUST-0790,32,Male,"Denver, CO",2025-07-04,Organic Search,Direct-to-Consumer
+CUST-0791,32,Male,"Boston, MA",2024-11-29,Paid Social,Retail Member
+CUST-0792,61,Female,"Chicago, IL",2024-12-10,Organic Search,Retail Member
+CUST-0793,21,Female,"Austin, TX",2025-04-09,Google Ads,Retail Member
+CUST-0794,40,Female,"Miami, FL",2024-12-10,Google Ads,Direct-to-Consumer
+CUST-0795,29,Prefer not to say,"Boston, MA",2024-11-20,Paid Social,Retail Member
+CUST-0796,38,Male,"Boston, MA",2025-06-14,Google Ads,Retail Member
+CUST-0797,23,Female,"Boston, MA",2025-11-22,Email Marketing,Direct-to-Consumer
+CUST-0798,38,Female,"Chicago, IL",2025-04-13,Email Marketing,Direct-to-Consumer
+CUST-0799,21,Female,"Atlanta, GA",2024-12-28,Paid Social,Retail Member
+CUST-0800,27,Non-Binary,"Boston, MA",2025-12-28,Organic Search,Direct-to-Consumer
+CUST-0801,50,Male,"Los Angeles, CA",2024-12-04,Paid Social,Small Business / Pro
+CUST-0802,29,Non-Binary,"Atlanta, GA",2024-10-21,Referral,Direct-to-Consumer
+CUST-0803,45,Female,"Los Angeles, CA",2025-02-08,Organic Search,Small Business / Pro
+CUST-0804,38,Female,"Houston, TX",2024-10-29,Referral,Direct-to-Consumer
+CUST-0805,27,Female,"Boston, MA",2025-03-23,Paid Social,Direct-to-Consumer
+CUST-0806,25,Male,"Chicago, IL",2025-03-15,Paid Social,Small Business / Pro
+CUST-0807,27,Prefer not to say,"Boston, MA",2025-11-14,Referral,Direct-to-Consumer
+CUST-0808,36,Female,"Seattle, WA",2025-11-02,Email Marketing,Direct-to-Consumer
+CUST-0809,35,Male,"Houston, TX",2024-11-13,Referral,Direct-to-Consumer
+CUST-0810,44,Female,"Chicago, IL",2025-11-01,Referral,Direct-to-Consumer
+CUST-0811,32,Female,"Austin, TX",2026-01-20,Organic Search,Direct-to-Consumer
+CUST-0812,29,Female,"New York, NY",2024-11-19,Google Ads,Direct-to-Consumer
+CUST-0813,51,Male,"Austin, TX",2025-11-19,Organic Search,Direct-to-Consumer
+CUST-0814,29,Female,"Seattle, WA",2025-09-05,Referral,Direct-to-Consumer
+CUST-0815,28,Female,"New York, NY",2024-08-21,Organic Search,Retail Member
+CUST-0816,53,Male,"Atlanta, GA",2025-01-10,Google Ads,Retail Member
+CUST-0817,18,Female,"Seattle, WA",2024-11-06,Google Ads,Small Business / Pro
+CUST-0818,42,Female,"Denver, CO",2025-08-08,Organic Search,Direct-to-Consumer
+CUST-0819,35,Female,"Boston, MA",2025-05-05,Organic Search,Direct-to-Consumer
+CUST-0820,37,Male,"Atlanta, GA",2024-09-05,Organic Search,Direct-to-Consumer
+CUST-0821,24,Female,"Atlanta, GA",2025-02-20,Email Marketing,Direct-to-Consumer
+CUST-0822,46,Male,"Boston, MA",2024-10-20,Organic Search,Direct-to-Consumer
+CUST-0823,41,Male,"New York, NY",2025-08-16,Organic Search,Direct-to-Consumer
+CUST-0824,26,Female,"Boston, MA",2024-12-14,Google Ads,Direct-to-Consumer
+CUST-0825,29,Male,"New York, NY",2024-09-15,Paid Social,Direct-to-Consumer
+CUST-0826,36,Male,"New York, NY",2026-01-12,Organic Search,Retail Member
+CUST-0827,18,Female,"Boston, MA",2025-02-06,Influencer,Direct-to-Consumer
+CUST-0828,34,Female,"New York, NY",2026-01-09,Paid Social,Direct-to-Consumer
+CUST-0829,18,Female,"Los Angeles, CA",2024-09-27,Paid Social,Direct-to-Consumer
+CUST-0830,44,Female,"Denver, CO",2025-04-08,Referral,Direct-to-Consumer
+CUST-0831,51,Female,"New York, NY",2025-10-07,Organic Search,Retail Member
+CUST-0832,31,Female,"Boston, MA",2025-09-17,Organic Search,Retail Member
+CUST-0833,57,Female,"Boston, MA",2025-04-18,Google Ads,Direct-to-Consumer
+CUST-0834,35,Female,"Denver, CO",2025-09-29,Google Ads,Retail Member
+CUST-0835,34,Female,"Austin, TX",2025-09-01,Google Ads,Small Business / Pro
+CUST-0836,35,Female,"Boston, MA",2025-10-22,Organic Search,Direct-to-Consumer
+CUST-0837,33,Male,"Miami, FL",2025-09-06,Organic Search,Direct-to-Consumer
+CUST-0838,42,Female,"Los Angeles, CA",2025-01-17,Organic Search,Direct-to-Consumer
+CUST-0839,43,Male,"Boston, MA",2024-11-22,Paid Social,Direct-to-Consumer
+CUST-0840,34,Female,"Austin, TX",2025-02-27,Organic Search,Direct-to-Consumer
+CUST-0841,67,Non-Binary,"Chicago, IL",2025-10-30,Google Ads,Direct-to-Consumer
+CUST-0842,33,Female,"Boston, MA",2024-09-27,Influencer,Direct-to-Consumer
+CUST-0843,52,Female,"Miami, FL",2025-08-28,Email Marketing,Direct-to-Consumer
+CUST-0844,28,Female,"Atlanta, GA",2025-10-08,Google Ads,Direct-to-Consumer
+CUST-0845,40,Female,"New York, NY",2025-10-13,Google Ads,Direct-to-Consumer
+CUST-0846,18,Male,"Houston, TX",2026-01-04,Organic Search,Direct-to-Consumer
+CUST-0847,30,Female,"New York, NY",2024-11-26,Referral,Direct-to-Consumer
+CUST-0848,32,Female,"Los Angeles, CA",2025-11-04,Referral,Direct-to-Consumer
+CUST-0849,26,Female,"Atlanta, GA",2025-01-18,Organic Search,Retail Member
+CUST-0850,41,Female,"Los Angeles, CA",2024-10-29,Google Ads,Direct-to-Consumer
+CUST-0851,33,Female,"Boston, MA",2025-09-20,Organic Search,Direct-to-Consumer
+CUST-0852,18,Female,"Austin, TX",2024-08-04,Referral,Direct-to-Consumer
+CUST-0853,20,Female,"Los Angeles, CA",2026-01-09,Referral,Direct-to-Consumer
+CUST-0854,18,Female,"Austin, TX",2024-09-17,Influencer,Retail Member
+CUST-0855,50,Male,"Chicago, IL",2025-01-14,Paid Social,Retail Member
+CUST-0856,18,Male,"Denver, CO",2024-10-02,Email Marketing,Retail Member
+CUST-0857,44,Male,"Chicago, IL",2025-06-20,Organic Search,Direct-to-Consumer
+CUST-0858,26,Female,"Atlanta, GA",2024-12-09,Email Marketing,Direct-to-Consumer
+CUST-0859,27,Female,"Chicago, IL",2025-04-07,Google Ads,Retail Member
+CUST-0860,40,Female,"Boston, MA",2025-02-11,Email Marketing,Direct-to-Consumer
+CUST-0861,31,Female,"Denver, CO",2025-06-09,Influencer,Direct-to-Consumer
+CUST-0862,36,Male,"New York, NY",2025-05-25,Google Ads,Direct-to-Consumer
+CUST-0863,47,Female,"Denver, CO",2024-09-23,Referral,Retail Member
+CUST-0864,31,Female,"Denver, CO",2025-03-24,Paid Social,Direct-to-Consumer
+CUST-0865,41,Female,"Houston, TX",2025-04-10,Paid Social,Direct-to-Consumer
+CUST-0866,34,Male,"Los Angeles, CA",2025-03-20,Organic Search,Retail Member
+CUST-0867,44,Female,"Denver, CO",2024-11-21,Paid Social,Direct-to-Consumer
+CUST-0868,34,Male,"New York, NY",2025-08-08,Google Ads,Direct-to-Consumer
+CUST-0869,22,Non-Binary,"Austin, TX",2025-07-03,Organic Search,Direct-to-Consumer
+CUST-0870,22,Male,"New York, NY",2026-01-11,Paid Social,Direct-to-Consumer
+CUST-0871,26,Female,"New York, NY",2025-06-13,Referral,Direct-to-Consumer
+CUST-0872,18,Male,"Boston, MA",2025-01-21,Paid Social,Retail Member
+CUST-0873,39,Female,"Houston, TX",2024-10-09,Google Ads,Retail Member
+CUST-0874,43,Male,"Miami, FL",2025-12-25,Paid Social,Direct-to-Consumer
+CUST-0875,48,Female,"Boston, MA",2025-05-29,Influencer,Retail Member
+CUST-0876,38,Female,"Miami, FL",2025-03-30,Email Marketing,Retail Member
+CUST-0877,59,Female,"Denver, CO",2024-08-22,Organic Search,Retail Member
+CUST-0878,43,Male,"Miami, FL",2024-08-29,Google Ads,Direct-to-Consumer
+CUST-0879,62,Male,"Austin, TX",2025-05-21,Organic Search,Direct-to-Consumer
+CUST-0880,38,Female,"Atlanta, GA",2025-01-10,Organic Search,Direct-to-Consumer
+CUST-0881,46,Male,"Austin, TX",2025-09-19,Google Ads,Direct-to-Consumer
+CUST-0882,58,Female,"New York, NY",2024-07-22,Organic Search,Direct-to-Consumer
+CUST-0883,55,Female,"Boston, MA",2024-12-31,Referral,Retail Member
+CUST-0884,46,Female,"Houston, TX",2024-08-06,Organic Search,Retail Member
+CUST-0885,20,Male,"Atlanta, GA",2024-10-29,Email Marketing,Direct-to-Consumer
+CUST-0886,32,Female,"Boston, MA",2024-12-16,Referral,Retail Member
+CUST-0887,28,Male,"Houston, TX",2024-10-05,Paid Social,Direct-to-Consumer
+CUST-0888,45,Female,"Austin, TX",2025-06-20,Paid Social,Retail Member
+CUST-0889,30,Male,"Boston, MA",2024-09-02,Referral,Direct-to-Consumer
+CUST-0890,35,Male,"Atlanta, GA",2025-03-08,Organic Search,Direct-to-Consumer
+CUST-0891,46,Non-Binary,"Denver, CO",2024-10-07,Organic Search,Direct-to-Consumer
+CUST-0892,45,Male,"Miami, FL",2025-09-25,Organic Search,Direct-to-Consumer
+CUST-0893,24,Male,"Seattle, WA",2025-06-18,Paid Social,Direct-to-Consumer
+CUST-0894,37,Male,"New York, NY",2024-12-18,Google Ads,Retail Member
+CUST-0895,31,Female,"New York, NY",2024-08-01,Referral,Direct-to-Consumer
+CUST-0896,46,Female,"Seattle, WA",2025-01-02,Google Ads,Direct-to-Consumer
+CUST-0897,43,Male,"Austin, TX",2025-02-27,Google Ads,Direct-to-Consumer
+CUST-0898,38,Female,"Seattle, WA",2025-06-30,Paid Social,Direct-to-Consumer
+CUST-0899,40,Female,"Boston, MA",2025-09-09,Paid Social,Direct-to-Consumer
+CUST-0900,47,Male,"Miami, FL",2025-05-27,Referral,Direct-to-Consumer
+CUST-0901,35,Female,"Chicago, IL",2024-10-26,Paid Social,Direct-to-Consumer
+CUST-0902,35,Female,"Chicago, IL",2025-06-01,Organic Search,Retail Member
+CUST-0903,40,Male,"Los Angeles, CA",2025-01-22,Influencer,Direct-to-Consumer
+CUST-0904,40,Female,"Los Angeles, CA",2025-03-01,Referral,Retail Member
+CUST-0905,46,Female,"Denver, CO",2025-10-31,Email Marketing,Direct-to-Consumer
+CUST-0906,35,Female,"Seattle, WA",2025-02-24,Google Ads,Direct-to-Consumer
+CUST-0907,34,Prefer not to say,"Atlanta, GA",2025-08-04,Paid Social,Direct-to-Consumer
+CUST-0908,51,Prefer not to say,"New York, NY",2025-09-11,Referral,Direct-to-Consumer
+CUST-0909,45,Female,"Austin, TX",2025-02-10,Paid Social,Direct-to-Consumer
+CUST-0910,45,Female,"New York, NY",2024-11-03,Organic Search,Direct-to-Consumer
+CUST-0911,38,Male,"Los Angeles, CA",2024-07-13,Referral,Direct-to-Consumer
+CUST-0912,46,Male,"Austin, TX",2025-09-20,Paid Social,Direct-to-Consumer
+CUST-0913,34,Female,"Houston, TX",2024-12-26,Organic Search,Retail Member
+CUST-0914,36,Male,"Houston, TX",2024-11-29,Paid Social,Direct-to-Consumer
+CUST-0915,31,Male,"New York, NY",2025-10-17,Referral,Direct-to-Consumer
+CUST-0916,38,Female,"Atlanta, GA",2024-12-28,Organic Search,Direct-to-Consumer
+CUST-0917,32,Female,"New York, NY",2025-07-23,Google Ads,Small Business / Pro
+CUST-0918,45,Female,"Atlanta, GA",2025-10-02,Google Ads,Direct-to-Consumer
+CUST-0919,29,Female,"Atlanta, GA",2024-07-23,Organic Search,Direct-to-Consumer
+CUST-0920,49,Male,"Atlanta, GA",2025-09-13,Paid Social,Direct-to-Consumer
+CUST-0921,30,Male,"Chicago, IL",2025-10-02,Referral,Small Business / Pro
+CUST-0922,18,Female,"Seattle, WA",2025-04-23,Google Ads,Direct-to-Consumer
+CUST-0923,21,Male,"Los Angeles, CA",2024-11-17,Google Ads,Direct-to-Consumer
+CUST-0924,27,Male,"Miami, FL",2025-05-08,Organic Search,Direct-to-Consumer
+CUST-0925,44,Male,"Chicago, IL",2025-11-21,Paid Social,Direct-to-Consumer
+CUST-0926,50,Male,"Boston, MA",2024-11-20,Referral,Retail Member
+CUST-0927,25,Female,"Los Angeles, CA",2025-12-04,Paid Social,Direct-to-Consumer
+CUST-0928,30,Female,"New York, NY",2025-04-01,Paid Social,Retail Member
+CUST-0929,49,Female,"Houston, TX",2024-11-10,Influencer,Direct-to-Consumer
+CUST-0930,30,Male,"New York, NY",2025-04-21,Email Marketing,Direct-to-Consumer
+CUST-0931,46,Male,"Denver, CO",2024-11-04,Google Ads,Direct-to-Consumer
+CUST-0932,37,Male,"New York, NY",2025-08-06,Paid Social,Direct-to-Consumer
+CUST-0933,33,Female,"Boston, MA",2025-09-11,Paid Social,Direct-to-Consumer
+CUST-0934,18,Female,"Boston, MA",2024-11-26,Referral,Direct-to-Consumer
+CUST-0935,28,Female,"Denver, CO",2025-03-14,Organic Search,Direct-to-Consumer
+CUST-0936,52,Male,"New York, NY",2025-02-10,Google Ads,Direct-to-Consumer
+CUST-0937,51,Male,"Miami, FL",2025-11-29,Paid Social,Direct-to-Consumer
+CUST-0938,22,Female,"New York, NY",2025-10-08,Organic Search,Retail Member
+CUST-0939,63,Female,"Denver, CO",2024-12-31,Influencer,Retail Member
+CUST-0940,20,Female,"Los Angeles, CA",2024-11-30,Influencer,Direct-to-Consumer
+CUST-0941,38,Non-Binary,"Los Angeles, CA",2025-07-24,Organic Search,Direct-to-Consumer
+CUST-0942,22,Male,"Atlanta, GA",2024-12-18,Influencer,Direct-to-Consumer
+CUST-0943,18,Male,"Atlanta, GA",2024-08-14,Organic Search,Direct-to-Consumer
+CUST-0944,24,Female,"Atlanta, GA",2025-08-07,Influencer,Direct-to-Consumer
+CUST-0945,27,Female,"Los Angeles, CA",2025-07-31,Google Ads,Direct-to-Consumer
+CUST-0946,39,Male,"Austin, TX",2024-08-14,Paid Social,Direct-to-Consumer
+CUST-0947,47,Female,"Chicago, IL",2025-10-04,Organic Search,Direct-to-Consumer
+CUST-0948,35,Female,"Boston, MA",2025-10-17,Organic Search,Direct-to-Consumer
+CUST-0949,44,Female,"Houston, TX",2025-08-31,Referral,Small Business / Pro
+CUST-0950,48,Male,"New York, NY",2024-12-09,Paid Social,Direct-to-Consumer
+CUST-0951,23,Female,"Miami, FL",2024-07-20,Organic Search,Direct-to-Consumer
+CUST-0952,45,Female,"Boston, MA",2024-08-05,Paid Social,Direct-to-Consumer
+CUST-0953,50,Female,"Austin, TX",2025-03-07,Organic Search,Direct-to-Consumer
+CUST-0954,34,Female,"Houston, TX",2025-12-14,Google Ads,Direct-to-Consumer
+CUST-0955,40,Female,"Boston, MA",2025-12-04,Referral,Retail Member
+CUST-0956,44,Female,"Los Angeles, CA",2025-10-02,Organic Search,Small Business / Pro
+CUST-0957,44,Female,"Denver, CO",2025-02-20,Email Marketing,Direct-to-Consumer
+CUST-0958,39,Female,"Austin, TX",2025-03-23,Influencer,Retail Member
+CUST-0959,40,Female,"Seattle, WA",2025-01-22,Email Marketing,Retail Member
+CUST-0960,21,Female,"Atlanta, GA",2024-12-03,Google Ads,Direct-to-Consumer
+CUST-0961,48,Male,"Boston, MA",2025-12-24,Referral,Direct-to-Consumer
+CUST-0962,32,Female,"Atlanta, GA",2024-10-12,Paid Social,Direct-to-Consumer
+CUST-0963,26,Female,"Atlanta, GA",2025-09-26,Organic Search,Direct-to-Consumer
+CUST-0964,49,Male,"Austin, TX",2025-10-03,Organic Search,Direct-to-Consumer
+CUST-0965,48,Female,"Seattle, WA",2024-12-16,Paid Social,Direct-to-Consumer
+CUST-0966,37,Male,"Atlanta, GA",2025-04-06,Influencer,Direct-to-Consumer
+CUST-0967,46,Male,"Boston, MA",2024-09-12,Paid Social,Direct-to-Consumer
+CUST-0968,35,Female,"Chicago, IL",2025-09-02,Google Ads,Direct-to-Consumer
+CUST-0969,40,Female,"Austin, TX",2025-08-30,Influencer,Direct-to-Consumer
+CUST-0970,39,Female,"Houston, TX",2026-01-12,Email Marketing,Direct-to-Consumer
+CUST-0971,43,Female,"Austin, TX",2024-09-18,Google Ads,Direct-to-Consumer
+CUST-0972,28,Female,"Atlanta, GA",2026-01-27,Google Ads,Direct-to-Consumer
+CUST-0973,20,Female,"Boston, MA",2025-02-26,Organic Search,Direct-to-Consumer
+CUST-0974,47,Female,"Austin, TX",2024-12-30,Paid Social,Retail Member
+CUST-0975,47,Female,"New York, NY",2025-08-17,Organic Search,Direct-to-Consumer
+CUST-0976,45,Male,"Los Angeles, CA",2025-06-06,Email Marketing,Direct-to-Consumer
+CUST-0977,46,Male,"Austin, TX",2024-09-21,Referral,Small Business / Pro
+CUST-0978,43,Male,"New York, NY",2025-02-18,Google Ads,Direct-to-Consumer
+CUST-0979,51,Female,"Houston, TX",2025-11-13,Organic Search,Direct-to-Consumer
+CUST-0980,22,Male,"Atlanta, GA",2025-01-24,Referral,Direct-to-Consumer
+CUST-0981,37,Non-Binary,"Atlanta, GA",2025-02-07,Email Marketing,Direct-to-Consumer
+CUST-0982,19,Male,"Seattle, WA",2025-07-24,Email Marketing,Retail Member
+CUST-0983,57,Female,"Houston, TX",2024-09-08,Google Ads,Retail Member
+CUST-0984,33,Female,"New York, NY",2025-09-05,Referral,Direct-to-Consumer
+CUST-0985,42,Female,"Houston, TX",2024-10-03,Paid Social,Retail Member
+CUST-0986,18,Female,"Los Angeles, CA",2025-12-24,Google Ads,Retail Member
+CUST-0987,34,Female,"Houston, TX",2024-08-20,Google Ads,Retail Member
+CUST-0988,34,Non-Binary,"Atlanta, GA",2025-03-22,Influencer,Direct-to-Consumer
+CUST-0989,40,Female,"Houston, TX",2025-01-16,Paid Social,Retail Member
+CUST-0990,22,Female,"Austin, TX",2025-04-23,Google Ads,Direct-to-Consumer
+CUST-0991,30,Male,"New York, NY",2025-06-21,Google Ads,Retail Member
+CUST-0992,30,Male,"Chicago, IL",2024-10-21,Google Ads,Direct-to-Consumer
+CUST-0993,38,Female,"New York, NY",2025-02-04,Email Marketing,Small Business / Pro
+CUST-0994,33,Male,"Denver, CO",2024-11-26,Google Ads,Direct-to-Consumer
+CUST-0995,22,Female,"New York, NY",2025-02-22,Paid Social,Direct-to-Consumer
+CUST-0996,43,Female,"Boston, MA",2025-10-15,Organic Search,Direct-to-Consumer
+CUST-0997,34,Male,"Miami, FL",2025-07-23,Referral,Direct-to-Consumer
+CUST-0998,64,Female,"Chicago, IL",2026-01-05,Google Ads,Direct-to-Consumer
+CUST-0999,30,Female,"Boston, MA",2025-11-29,Paid Social,Retail Member
+CUST-1000,41,Male,"Miami, FL",2025-10-04,Paid Social,Small Business / Pro
+CUST-1001,34,Male,"Boston, MA",2024-09-07,Influencer,Retail Member
+CUST-1002,18,Female,"Chicago, IL",2025-03-23,Organic Search,Direct-to-Consumer
+CUST-1003,30,Male,"Denver, CO",2024-11-07,Paid Social,Direct-to-Consumer
+CUST-1004,31,Female,"New York, NY",2025-01-19,Paid Social,Small Business / Pro
+CUST-1005,26,Male,"Miami, FL",2025-04-03,Organic Search,Retail Member
+CUST-1006,18,Female,"Miami, FL",2024-10-31,Organic Search,Small Business / Pro
+CUST-1007,39,Female,"Atlanta, GA",2024-10-05,Google Ads,Retail Member
+CUST-1008,25,Male,"Austin, TX",2025-01-28,Paid Social,Direct-to-Consumer
+CUST-1009,27,Male,"Chicago, IL",2025-10-01,Paid Social,Retail Member
+CUST-1010,25,Female,"Houston, TX",2025-06-20,Google Ads,Direct-to-Consumer
+CUST-1011,34,Male,"Seattle, WA",2025-07-14,Organic Search,Direct-to-Consumer
+CUST-1012,29,Male,"Chicago, IL",2025-09-04,Referral,Direct-to-Consumer
+CUST-1013,30,Male,"Houston, TX",2025-08-27,Organic Search,Direct-to-Consumer
+CUST-1014,43,Male,"Houston, TX",2025-02-20,Google Ads,Direct-to-Consumer
+CUST-1015,32,Female,"Denver, CO",2024-12-08,Organic Search,Retail Member
+CUST-1016,27,Male,"Miami, FL",2025-09-22,Google Ads,Direct-to-Consumer
+CUST-1017,34,Female,"Boston, MA",2025-02-16,Email Marketing,Direct-to-Consumer
+CUST-1018,41,Male,"Miami, FL",2025-06-19,Paid Social,Retail Member
+CUST-1019,20,Female,"Denver, CO",2026-01-25,Organic Search,Direct-to-Consumer
+CUST-1020,42,Male,"Atlanta, GA",2025-05-17,Organic Search,Direct-to-Consumer
+CUST-1021,35,Male,"Boston, MA",2024-12-21,Paid Social,Retail Member
+CUST-1022,40,Male,"New York, NY",2025-12-01,Paid Social,Direct-to-Consumer
+CUST-1023,33,Female,"Atlanta, GA",2025-09-22,Referral,Direct-to-Consumer
+CUST-1024,26,Male,"Los Angeles, CA",2026-01-07,Referral,Direct-to-Consumer
+CUST-1025,40,Male,"Miami, FL",2025-07-24,Google Ads,Direct-to-Consumer
+CUST-1026,45,Female,"Atlanta, GA",2025-03-16,Influencer,Direct-to-Consumer
+CUST-1027,18,Prefer not to say,"Boston, MA",2025-05-21,Influencer,Retail Member
+CUST-1028,24,Female,"New York, NY",2025-07-02,Organic Search,Retail Member
+CUST-1029,32,Female,"Austin, TX",2024-10-31,Influencer,Direct-to-Consumer
+CUST-1030,18,Female,"Boston, MA",2024-09-05,Google Ads,Direct-to-Consumer
+CUST-1031,39,Female,"New York, NY",2025-01-24,Organic Search,Direct-to-Consumer
+CUST-1032,37,Male,"Denver, CO",2024-09-21,Influencer,Retail Member
+CUST-1033,31,Female,"Atlanta, GA",2025-05-04,Organic Search,Small Business / Pro
+CUST-1034,46,Female,"Los Angeles, CA",2026-01-14,Referral,Direct-to-Consumer
+CUST-1035,35,Male,"Houston, TX",2024-11-08,Email Marketing,Direct-to-Consumer
+CUST-1036,20,Male,"Los Angeles, CA",2025-02-08,Influencer,Direct-to-Consumer
+CUST-1037,25,Female,"Seattle, WA",2025-10-28,Google Ads,Direct-to-Consumer
+CUST-1038,20,Non-Binary,"Seattle, WA",2024-08-25,Google Ads,Direct-to-Consumer
+CUST-1039,40,Female,"Boston, MA",2025-11-16,Referral,Direct-to-Consumer
+CUST-1040,38,Male,"Atlanta, GA",2025-05-24,Organic Search,Direct-to-Consumer
+CUST-1041,50,Female,"New York, NY",2024-09-10,Organic Search,Direct-to-Consumer
+CUST-1042,29,Male,"Austin, TX",2025-09-23,Google Ads,Direct-to-Consumer
+CUST-1043,25,Male,"Miami, FL",2025-11-14,Referral,Direct-to-Consumer
+CUST-1044,41,Male,"Austin, TX",2025-01-10,Google Ads,Direct-to-Consumer
+CUST-1045,47,Female,"Los Angeles, CA",2025-01-17,Paid Social,Direct-to-Consumer
+CUST-1046,33,Female,"New York, NY",2024-07-29,Organic Search,Direct-to-Consumer
+CUST-1047,45,Male,"Seattle, WA",2025-07-22,Google Ads,Direct-to-Consumer
+CUST-1048,32,Male,"New York, NY",2024-12-28,Referral,Direct-to-Consumer
+CUST-1049,31,Male,"Austin, TX",2024-10-09,Organic Search,Retail Member
+CUST-1050,31,Male,"New York, NY",2025-12-24,Paid Social,Direct-to-Consumer
+CUST-1051,31,Male,"Denver, CO",2025-07-17,Organic Search,Direct-to-Consumer
+CUST-1052,64,Female,"New York, NY",2024-08-01,Paid Social,Direct-to-Consumer
+CUST-1053,26,Female,"Boston, MA",2025-11-28,Organic Search,Direct-to-Consumer
+CUST-1054,34,Female,"Austin, TX",2025-11-26,Google Ads,Direct-to-Consumer
+CUST-1055,31,Female,"Austin, TX",2025-07-29,Organic Search,Direct-to-Consumer
+CUST-1056,43,Male,"Austin, TX",2024-10-06,Organic Search,Direct-to-Consumer
+CUST-1057,39,Female,"Los Angeles, CA",2024-08-10,Influencer,Retail Member
+CUST-1058,26,Male,"Atlanta, GA",2024-10-21,Google Ads,Direct-to-Consumer
+CUST-1059,18,Female,"Denver, CO",2025-04-24,Email Marketing,Small Business / Pro
+CUST-1060,51,Male,"New York, NY",2024-07-16,Organic Search,Direct-to-Consumer
+CUST-1061,18,Male,"New York, NY",2025-02-17,Email Marketing,Retail Member
+CUST-1062,26,Male,"Miami, FL",2025-08-23,Paid Social,Direct-to-Consumer
+CUST-1063,54,Male,"Denver, CO",2025-01-02,Google Ads,Direct-to-Consumer
+CUST-1064,43,Female,"Houston, TX",2024-11-09,Paid Social,Direct-to-Consumer
+CUST-1065,54,Female,"Austin, TX",2025-09-18,Google Ads,Retail Member
+CUST-1066,26,Female,"Seattle, WA",2024-07-23,Paid Social,Direct-to-Consumer
+CUST-1067,43,Male,"Los Angeles, CA",2025-09-17,Organic Search,Direct-to-Consumer
+CUST-1068,33,Non-Binary,"Houston, TX",2025-12-08,Paid Social,Direct-to-Consumer
+CUST-1069,38,Male,"Houston, TX",2025-12-05,Organic Search,Retail Member
+CUST-1070,26,Female,"Chicago, IL",2025-06-12,Google Ads,Direct-to-Consumer
+CUST-1071,26,Male,"New York, NY",2024-12-04,Email Marketing,Direct-to-Consumer
+CUST-1072,50,Female,"Austin, TX",2025-06-27,Paid Social,Direct-to-Consumer
+CUST-1073,47,Female,"New York, NY",2025-05-03,Referral,Direct-to-Consumer
+CUST-1074,47,Male,"Seattle, WA",2024-08-05,Referral,Direct-to-Consumer
+CUST-1075,32,Non-Binary,"Boston, MA",2025-07-31,Google Ads,Direct-to-Consumer
+CUST-1076,45,Male,"Atlanta, GA",2024-12-01,Google Ads,Direct-to-Consumer
+CUST-1077,42,Male,"Miami, FL",2025-12-16,Google Ads,Retail Member
+CUST-1078,44,Male,"Atlanta, GA",2024-10-02,Referral,Direct-to-Consumer
+CUST-1079,37,Male,"Houston, TX",2024-09-28,Influencer,Direct-to-Consumer
+CUST-1080,32,Male,"New York, NY",2026-01-12,Paid Social,Direct-to-Consumer
+CUST-1081,29,Male,"Denver, CO",2025-06-22,Referral,Direct-to-Consumer
+CUST-1082,33,Female,"Seattle, WA",2024-08-17,Referral,Retail Member
+CUST-1083,25,Male,"New York, NY",2025-08-23,Email Marketing,Retail Member
+CUST-1084,32,Male,"Seattle, WA",2024-11-17,Organic Search,Direct-to-Consumer
+CUST-1085,18,Female,"New York, NY",2025-11-28,Influencer,Direct-to-Consumer
+CUST-1086,29,Male,"Atlanta, GA",2025-12-14,Google Ads,Direct-to-Consumer
+CUST-1087,34,Male,"Miami, FL",2024-12-16,Google Ads,Direct-to-Consumer
+CUST-1088,53,Female,"Chicago, IL",2025-07-03,Google Ads,Direct-to-Consumer
+CUST-1089,36,Female,"Seattle, WA",2025-09-15,Paid Social,Direct-to-Consumer
+CUST-1090,19,Female,"Austin, TX",2025-03-05,Referral,Direct-to-Consumer
+CUST-1091,28,Male,"Denver, CO",2025-08-06,Organic Search,Direct-to-Consumer
+CUST-1092,24,Male,"New York, NY",2024-08-20,Organic Search,Direct-to-Consumer
+CUST-1093,27,Male,"Miami, FL",2024-08-13,Email Marketing,Direct-to-Consumer
+CUST-1094,41,Female,"Seattle, WA",2025-10-19,Organic Search,Retail Member
+CUST-1095,32,Male,"Denver, CO",2024-11-15,Influencer,Direct-to-Consumer
+CUST-1096,55,Non-Binary,"New York, NY",2025-08-12,Paid Social,Direct-to-Consumer
+CUST-1097,52,Male,"Miami, FL",2025-02-19,Organic Search,Direct-to-Consumer
+CUST-1098,59,Male,"Boston, MA",2025-08-22,Email Marketing,Direct-to-Consumer
+CUST-1099,28,Male,"Houston, TX",2024-09-22,Paid Social,Small Business / Pro
+CUST-1100,24,Male,"Miami, FL",2025-10-04,Organic Search,Direct-to-Consumer
+CUST-1101,59,Male,"Atlanta, GA",2025-11-24,Paid Social,Direct-to-Consumer
+CUST-1102,31,Female,"Boston, MA",2025-10-11,Organic Search,Direct-to-Consumer
+CUST-1103,23,Male,"Chicago, IL",2025-03-16,Paid Social,Direct-to-Consumer
+CUST-1104,32,Female,"Los Angeles, CA",2025-12-22,Organic Search,Direct-to-Consumer
+CUST-1105,26,Male,"Seattle, WA",2025-11-24,Influencer,Direct-to-Consumer
+CUST-1106,62,Female,"Seattle, WA",2024-10-04,Google Ads,Retail Member
+CUST-1107,23,Male,"Denver, CO",2025-06-07,Paid Social,Direct-to-Consumer
+CUST-1108,39,Male,"Atlanta, GA",2024-11-21,Referral,Direct-to-Consumer
+CUST-1109,25,Male,"Atlanta, GA",2024-08-09,Google Ads,Direct-to-Consumer
+CUST-1110,48,Male,"Atlanta, GA",2024-10-28,Google Ads,Direct-to-Consumer
+CUST-1111,33,Male,"Miami, FL",2024-08-05,Google Ads,Retail Member
+CUST-1112,37,Male,"Miami, FL",2024-11-04,Referral,Direct-to-Consumer
+CUST-1113,23,Female,"Chicago, IL",2025-10-07,Referral,Retail Member
+CUST-1114,22,Male,"Los Angeles, CA",2025-06-02,Email Marketing,Direct-to-Consumer
+CUST-1115,35,Female,"Seattle, WA",2024-10-27,Organic Search,Direct-to-Consumer
+CUST-1116,43,Male,"New York, NY",2025-03-13,Google Ads,Small Business / Pro
+CUST-1117,39,Male,"Atlanta, GA",2025-01-17,Organic Search,Direct-to-Consumer
+CUST-1118,26,Male,"Austin, TX",2024-11-17,Referral,Direct-to-Consumer
+CUST-1119,36,Male,"Boston, MA",2025-01-04,Paid Social,Direct-to-Consumer
+CUST-1120,27,Female,"Atlanta, GA",2025-12-16,Google Ads,Direct-to-Consumer
+CUST-1121,18,Female,"Miami, FL",2025-05-16,Email Marketing,Small Business / Pro
+CUST-1122,35,Female,"Atlanta, GA",2025-11-24,Organic Search,Direct-to-Consumer
+CUST-1123,19,Male,"New York, NY",2025-10-22,Referral,Direct-to-Consumer
+CUST-1124,26,Male,"Chicago, IL",2025-05-11,Referral,Direct-to-Consumer
+CUST-1125,45,Female,"Seattle, WA",2024-10-24,Organic Search,Retail Member
+CUST-1126,41,Female,"Boston, MA",2025-05-28,Paid Social,Retail Member
+CUST-1127,32,Male,"Miami, FL",2025-05-29,Organic Search,Direct-to-Consumer
+CUST-1128,36,Female,"Boston, MA",2024-12-31,Google Ads,Direct-to-Consumer
+CUST-1129,23,Female,"Houston, TX",2024-10-16,Organic Search,Retail Member
+CUST-1130,30,Female,"Atlanta, GA",2025-03-26,Email Marketing,Direct-to-Consumer
+CUST-1131,58,Female,"Houston, TX",2024-07-11,Organic Search,Direct-to-Consumer
+CUST-1132,42,Female,"New York, NY",2025-10-16,Google Ads,Direct-to-Consumer
+CUST-1133,36,Non-Binary,"Austin, TX",2025-05-20,Google Ads,Retail Member
+CUST-1134,51,Female,"Seattle, WA",2025-04-07,Email Marketing,Small Business / Pro
+CUST-1135,19,Female,"New York, NY",2025-01-25,Referral,Retail Member
+CUST-1136,26,Female,"New York, NY",2025-05-18,Paid Social,Direct-to-Consumer
+CUST-1137,33,Male,"New York, NY",2026-01-15,Google Ads,Retail Member
+CUST-1138,47,Female,"Houston, TX",2024-09-22,Paid Social,Small Business / Pro
+CUST-1139,35,Female,"Chicago, IL",2024-09-22,Organic Search,Retail Member
+CUST-1140,34,Female,"Denver, CO",2024-12-28,Paid Social,Direct-to-Consumer
+CUST-1141,47,Female,"Denver, CO",2025-08-18,Google Ads,Direct-to-Consumer
+CUST-1142,39,Female,"New York, NY",2024-09-06,Email Marketing,Small Business / Pro
+CUST-1143,22,Female,"Boston, MA",2024-08-22,Referral,Retail Member
+CUST-1144,50,Male,"Los Angeles, CA",2025-10-13,Email Marketing,Direct-to-Consumer
+CUST-1145,27,Female,"Austin, TX",2025-11-22,Paid Social,Direct-to-Consumer
+CUST-1146,26,Female,"Boston, MA",2025-03-29,Influencer,Direct-to-Consumer
+CUST-1147,20,Male,"Austin, TX",2025-03-25,Referral,Retail Member
+CUST-1148,36,Female,"Chicago, IL",2024-12-16,Paid Social,Direct-to-Consumer
+CUST-1149,18,Male,"Seattle, WA",2025-04-27,Email Marketing,Direct-to-Consumer
+CUST-1150,27,Female,"Los Angeles, CA",2025-07-06,Paid Social,Direct-to-Consumer
+CUST-1151,45,Female,"Los Angeles, CA",2024-12-01,Paid Social,Small Business / Pro
+CUST-1152,28,Female,"Miami, FL",2024-11-02,Organic Search,Retail Member
+CUST-1153,38,Female,"Houston, TX",2024-07-19,Google Ads,Direct-to-Consumer
+CUST-1154,28,Male,"Miami, FL",2024-08-29,Google Ads,Direct-to-Consumer
+CUST-1155,46,Male,"Chicago, IL",2024-10-08,Referral,Direct-to-Consumer
+CUST-1156,34,Female,"Los Angeles, CA",2024-12-06,Organic Search,Retail Member
+CUST-1157,28,Male,"Atlanta, GA",2024-08-01,Organic Search,Direct-to-Consumer
+CUST-1158,38,Male,"Boston, MA",2026-01-04,Organic Search,Direct-to-Consumer
+CUST-1159,30,Male,"Chicago, IL",2024-10-17,Referral,Direct-to-Consumer
+CUST-1160,39,Female,"Atlanta, GA",2025-12-15,Email Marketing,Direct-to-Consumer
+CUST-1161,24,Female,"Austin, TX",2025-10-22,Google Ads,Direct-to-Consumer
+CUST-1162,56,Female,"Austin, TX",2025-10-03,Organic Search,Direct-to-Consumer
+CUST-1163,30,Female,"Los Angeles, CA",2025-03-03,Email Marketing,Direct-to-Consumer
+CUST-1164,42,Male,"Boston, MA",2025-03-02,Influencer,Small Business / Pro
+CUST-1165,56,Male,"Atlanta, GA",2024-10-09,Paid Social,Direct-to-Consumer
+CUST-1166,24,Female,"Seattle, WA",2025-11-03,Organic Search,Direct-to-Consumer
+CUST-1167,19,Male,"Boston, MA",2025-02-19,Paid Social,Retail Member
+CUST-1168,29,Female,"New York, NY",2025-02-18,Paid Social,Direct-to-Consumer
+CUST-1169,48,Female,"Boston, MA",2025-06-02,Referral,Retail Member
+CUST-1170,49,Male,"Seattle, WA",2024-11-15,Organic Search,Direct-to-Consumer
+CUST-1171,49,Female,"Chicago, IL",2024-10-24,Google Ads,Retail Member
+CUST-1172,23,Prefer not to say,"Austin, TX",2025-09-14,Influencer,Direct-to-Consumer
+CUST-1173,27,Female,"Atlanta, GA",2025-01-15,Organic Search,Direct-to-Consumer
+CUST-1174,32,Male,"Seattle, WA",2024-08-17,Google Ads,Retail Member
+CUST-1175,31,Male,"Seattle, WA",2024-10-13,Paid Social,Direct-to-Consumer
+CUST-1176,27,Male,"Chicago, IL",2025-04-25,Paid Social,Small Business / Pro
+CUST-1177,27,Female,"Chicago, IL",2025-09-06,Organic Search,Small Business / Pro
+CUST-1178,49,Male,"Houston, TX",2025-10-09,Referral,Direct-to-Consumer
+CUST-1179,50,Non-Binary,"Los Angeles, CA",2024-08-12,Paid Social,Direct-to-Consumer
+CUST-1180,30,Female,"Miami, FL",2025-11-23,Organic Search,Direct-to-Consumer
+CUST-1181,19,Male,"Los Angeles, CA",2026-01-05,Google Ads,Direct-to-Consumer
+CUST-1182,32,Male,"Seattle, WA",2026-01-08,Organic Search,Direct-to-Consumer
+CUST-1183,28,Prefer not to say,"Denver, CO",2025-01-05,Organic Search,Direct-to-Consumer
+CUST-1184,20,Female,"Seattle, WA",2026-01-14,Referral,Direct-to-Consumer
+CUST-1185,37,Male,"Denver, CO",2025-10-28,Organic Search,Direct-to-Consumer
+CUST-1186,20,Female,"Los Angeles, CA",2025-08-19,Paid Social,Direct-to-Consumer
+CUST-1187,29,Female,"Los Angeles, CA",2024-12-04,Organic Search,Direct-to-Consumer
+CUST-1188,40,Male,"Austin, TX",2024-11-29,Google Ads,Direct-to-Consumer
+CUST-1189,67,Female,"Austin, TX",2025-03-24,Influencer,Retail Member
+CUST-1190,39,Female,"Chicago, IL",2025-03-02,Paid Social,Direct-to-Consumer
+CUST-1191,35,Male,"Seattle, WA",2025-07-20,Organic Search,Direct-to-Consumer
+CUST-1192,32,Male,"Austin, TX",2025-01-17,Email Marketing,Direct-to-Consumer
+CUST-1193,49,Male,"Seattle, WA",2024-12-13,Google Ads,Direct-to-Consumer
+CUST-1194,22,Male,"Chicago, IL",2024-09-18,Referral,Retail Member
+CUST-1195,34,Female,"Boston, MA",2024-11-18,Organic Search,Direct-to-Consumer
+CUST-1196,33,Female,"Austin, TX",2025-08-10,Google Ads,Retail Member
+CUST-1197,28,Male,"Houston, TX",2025-10-22,Google Ads,Direct-to-Consumer
+CUST-1198,28,Female,"Miami, FL",2026-01-02,Google Ads,Direct-to-Consumer
+CUST-1199,36,Female,"Atlanta, GA",2024-07-23,Organic Search,Direct-to-Consumer
+CUST-1200,61,Prefer not to say,"Chicago, IL",2024-09-04,Email Marketing,Direct-to-Consumer

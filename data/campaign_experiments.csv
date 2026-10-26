@@ -1,0 +1,1501 @@
+experiment_id,customer_id,campaign_name,variant,channel,converted,order_value,timestamp
+EXP-0001,CUST-0674,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-0002,CUST-1175,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-0003,CUST-0748,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-09
+EXP-0004,CUST-1032,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-12
+EXP-0005,CUST-0378,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-17
+EXP-0006,CUST-1057,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-11
+EXP-0007,CUST-0968,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-0008,CUST-0344,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-11
+EXP-0009,CUST-0686,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-24
+EXP-0010,CUST-0737,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-0011,CUST-0096,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-31
+EXP-0012,CUST-1038,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-08
+EXP-0013,CUST-0859,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-24
+EXP-0014,CUST-0372,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-21
+EXP-0015,CUST-0255,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-28
+EXP-0016,CUST-0923,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-25
+EXP-0017,CUST-0251,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-0018,CUST-0434,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-25
+EXP-0019,CUST-0413,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-23
+EXP-0020,CUST-1067,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-23
+EXP-0021,CUST-0703,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-27
+EXP-0022,CUST-0697,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-30
+EXP-0023,CUST-0160,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0024,CUST-1186,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-09
+EXP-0025,CUST-0451,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-0026,CUST-1053,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0027,CUST-1050,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-17
+EXP-0028,CUST-0285,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-01
+EXP-0029,CUST-1166,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-14
+EXP-0030,CUST-0215,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-21
+EXP-0031,CUST-0605,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-21
+EXP-0032,CUST-0193,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-23
+EXP-0033,CUST-0501,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-13
+EXP-0034,CUST-0505,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-04
+EXP-0035,CUST-0617,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,138.73,2026-01-26
+EXP-0036,CUST-0265,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-16
+EXP-0037,CUST-0430,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-22
+EXP-0038,CUST-0213,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-0039,CUST-0379,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-0040,CUST-0988,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-22
+EXP-0041,CUST-0194,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-28
+EXP-0042,CUST-0204,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-09
+EXP-0043,CUST-0052,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-20
+EXP-0044,CUST-0898,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-04
+EXP-0045,CUST-0422,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-0046,CUST-1163,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0047,CUST-1175,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-0048,CUST-1163,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,173.13,2026-01-20
+EXP-0049,CUST-0105,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-0050,CUST-0727,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0051,CUST-0530,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-20
+EXP-0052,CUST-0244,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-23
+EXP-0053,CUST-0255,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-27
+EXP-0054,CUST-0393,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-04
+EXP-0055,CUST-0058,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-14
+EXP-0056,CUST-1191,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-22
+EXP-0057,CUST-1063,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,200.82,2026-02-18
+EXP-0058,CUST-0886,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-12
+EXP-0059,CUST-1175,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,144.99,2026-02-02
+EXP-0060,CUST-0014,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-0061,CUST-0656,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-0062,CUST-0299,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-10
+EXP-0063,CUST-0424,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-0064,CUST-1161,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,147.31,2026-01-27
+EXP-0065,CUST-0758,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-02
+EXP-0066,CUST-0340,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-09
+EXP-0067,CUST-0272,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-30
+EXP-0068,CUST-1032,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-26
+EXP-0069,CUST-0295,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,77.69,2026-01-24
+EXP-0070,CUST-0449,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-0071,CUST-0243,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-03
+EXP-0072,CUST-0163,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-0073,CUST-1170,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0074,CUST-0649,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,146.38,2026-02-01
+EXP-0075,CUST-1035,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-04
+EXP-0076,CUST-1034,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-0077,CUST-0344,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,112.3,2026-01-27
+EXP-0078,CUST-0240,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-0079,CUST-0705,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-01
+EXP-0080,CUST-0771,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-20
+EXP-0081,CUST-0497,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-0082,CUST-1092,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,143.86,2026-01-26
+EXP-0083,CUST-0318,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-01
+EXP-0084,CUST-0666,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-16
+EXP-0085,CUST-0215,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-0086,CUST-0219,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-0087,CUST-0550,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-0088,CUST-0994,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-0089,CUST-0331,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-14
+EXP-0090,CUST-1192,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,122.44,2026-01-25
+EXP-0091,CUST-0832,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-03
+EXP-0092,CUST-1062,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,113.92,2026-01-21
+EXP-0093,CUST-0215,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-09
+EXP-0094,CUST-0382,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-19
+EXP-0095,CUST-0240,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-22
+EXP-0096,CUST-0177,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-20
+EXP-0097,CUST-0098,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-30
+EXP-0098,CUST-0842,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-0099,CUST-0413,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0100,CUST-0299,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-03
+EXP-0101,CUST-0028,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-16
+EXP-0102,CUST-0051,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-0103,CUST-0828,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-14
+EXP-0104,CUST-0186,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,155.44,2026-02-03
+EXP-0105,CUST-0957,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-01
+EXP-0106,CUST-0456,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-11
+EXP-0107,CUST-0464,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-27
+EXP-0108,CUST-0714,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-12
+EXP-0109,CUST-1038,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-0110,CUST-0917,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,177.21,2026-02-04
+EXP-0111,CUST-0394,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-0112,CUST-0350,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-0113,CUST-0680,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-25
+EXP-0114,CUST-0412,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-0115,CUST-0403,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-16
+EXP-0116,CUST-0312,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,150.35,2026-02-12
+EXP-0117,CUST-0355,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-20
+EXP-0118,CUST-0012,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-0119,CUST-0972,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-0120,CUST-0892,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-0121,CUST-1003,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-22
+EXP-0122,CUST-0935,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-0123,CUST-0218,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-07
+EXP-0124,CUST-1173,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-0125,CUST-0796,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-0126,CUST-0382,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-13
+EXP-0127,CUST-0654,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-17
+EXP-0128,CUST-0174,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-24
+EXP-0129,CUST-0085,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-16
+EXP-0130,CUST-0800,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-18
+EXP-0131,CUST-0589,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-0132,CUST-0558,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-23
+EXP-0133,CUST-0376,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-21
+EXP-0134,CUST-0618,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-12
+EXP-0135,CUST-0471,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-11
+EXP-0136,CUST-0956,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-07
+EXP-0137,CUST-0954,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-0138,CUST-0396,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-02
+EXP-0139,CUST-0630,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-05
+EXP-0140,CUST-0298,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-08
+EXP-0141,CUST-0807,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-24
+EXP-0142,CUST-0244,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-0143,CUST-1016,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-10
+EXP-0144,CUST-0719,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-23
+EXP-0145,CUST-0021,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-27
+EXP-0146,CUST-0761,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-30
+EXP-0147,CUST-0365,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-0148,CUST-0800,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-19
+EXP-0149,CUST-0608,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-0150,CUST-1031,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-24
+EXP-0151,CUST-0908,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-17
+EXP-0152,CUST-0772,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-0153,CUST-0339,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-0154,CUST-0877,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-07
+EXP-0155,CUST-0409,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0156,CUST-1146,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-15
+EXP-0157,CUST-0967,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-0158,CUST-0559,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-0159,CUST-0595,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-09
+EXP-0160,CUST-0780,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-17
+EXP-0161,CUST-0206,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-23
+EXP-0162,CUST-0135,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-21
+EXP-0163,CUST-0440,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-0164,CUST-0359,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-10
+EXP-0165,CUST-0746,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,178.82,2026-02-10
+EXP-0166,CUST-1035,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,70.34,2026-02-03
+EXP-0167,CUST-0563,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-0168,CUST-0951,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,131.57,2026-02-21
+EXP-0169,CUST-0225,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-16
+EXP-0170,CUST-0990,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-21
+EXP-0171,CUST-0635,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-17
+EXP-0172,CUST-0285,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-20
+EXP-0173,CUST-0749,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-0174,CUST-0145,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0175,CUST-0267,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-0176,CUST-0956,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-04
+EXP-0177,CUST-0073,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-02
+EXP-0178,CUST-1068,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-20
+EXP-0179,CUST-0489,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,100.13,2026-01-30
+EXP-0180,CUST-0192,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-20
+EXP-0181,CUST-1111,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-26
+EXP-0182,CUST-0604,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-0183,CUST-0446,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-30
+EXP-0184,CUST-0721,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-25
+EXP-0185,CUST-0800,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,238.36,2026-02-13
+EXP-0186,CUST-0447,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-07
+EXP-0187,CUST-0037,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-0188,CUST-0791,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-0189,CUST-0779,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-16
+EXP-0190,CUST-0234,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-25
+EXP-0191,CUST-0924,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0192,CUST-0634,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-0193,CUST-0613,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-08
+EXP-0194,CUST-0117,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-22
+EXP-0195,CUST-0689,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-20
+EXP-0196,CUST-1130,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0197,CUST-0330,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-07
+EXP-0198,CUST-0258,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-10
+EXP-0199,CUST-0205,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-24
+EXP-0200,CUST-0565,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,161.93,2026-02-03
+EXP-0201,CUST-0133,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-22
+EXP-0202,CUST-0852,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-23
+EXP-0203,CUST-0610,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0204,CUST-0102,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-22
+EXP-0205,CUST-0438,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,128.47,2026-01-29
+EXP-0206,CUST-0157,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-21
+EXP-0207,CUST-0482,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-13
+EXP-0208,CUST-0604,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0209,CUST-0718,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0210,CUST-0847,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-23
+EXP-0211,CUST-0190,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,88.86,2026-02-22
+EXP-0212,CUST-0066,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-0213,CUST-0801,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-21
+EXP-0214,CUST-0746,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-0215,CUST-0168,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-0216,CUST-1000,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-10
+EXP-0217,CUST-1053,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-24
+EXP-0218,CUST-0843,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-0219,CUST-0985,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0220,CUST-0407,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,96.87,2026-02-07
+EXP-0221,CUST-0590,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-0222,CUST-0832,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0223,CUST-0773,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,211.34,2026-01-23
+EXP-0224,CUST-0640,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-15
+EXP-0225,CUST-0075,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-24
+EXP-0226,CUST-0887,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-05
+EXP-0227,CUST-0282,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-0228,CUST-0196,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-23
+EXP-0229,CUST-0278,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-18
+EXP-0230,CUST-0585,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-29
+EXP-0231,CUST-0755,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-13
+EXP-0232,CUST-0805,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-11
+EXP-0233,CUST-0217,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0234,CUST-0058,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-0235,CUST-0585,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-0236,CUST-0531,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-15
+EXP-0237,CUST-1052,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-20
+EXP-0238,CUST-1012,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-23
+EXP-0239,CUST-0522,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,104.48,2026-02-02
+EXP-0240,CUST-1084,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-0241,CUST-1131,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-12
+EXP-0242,CUST-1062,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-20
+EXP-0243,CUST-0014,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-0244,CUST-0551,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-10
+EXP-0245,CUST-1081,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-22
+EXP-0246,CUST-0139,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-29
+EXP-0247,CUST-0555,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-26
+EXP-0248,CUST-0196,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-0249,CUST-0471,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-07
+EXP-0250,CUST-0146,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-0251,CUST-0211,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-30
+EXP-0252,CUST-0513,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-08
+EXP-0253,CUST-1028,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-15
+EXP-0254,CUST-0018,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-0255,CUST-0918,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0256,CUST-0389,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-16
+EXP-0257,CUST-0242,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-0258,CUST-0164,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-0259,CUST-0240,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,132.5,2026-01-20
+EXP-0260,CUST-1096,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-02
+EXP-0261,CUST-0617,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-13
+EXP-0262,CUST-0397,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-12
+EXP-0263,CUST-1034,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-04
+EXP-0264,CUST-0650,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-08
+EXP-0265,CUST-0346,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,208.82,2026-01-28
+EXP-0266,CUST-0209,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-10
+EXP-0267,CUST-0540,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-02
+EXP-0268,CUST-1073,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-24
+EXP-0269,CUST-1106,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,148.71,2026-02-16
+EXP-0270,CUST-0588,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-0271,CUST-0433,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-03
+EXP-0272,CUST-0034,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-04
+EXP-0273,CUST-0392,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-0274,CUST-1196,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-26
+EXP-0275,CUST-1122,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-30
+EXP-0276,CUST-0016,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-14
+EXP-0277,CUST-0342,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-30
+EXP-0278,CUST-1014,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-29
+EXP-0279,CUST-0466,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0280,CUST-0237,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-0281,CUST-0571,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-31
+EXP-0282,CUST-0138,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-24
+EXP-0283,CUST-0016,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-0284,CUST-1164,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-29
+EXP-0285,CUST-0790,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-22
+EXP-0286,CUST-1040,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-20
+EXP-0287,CUST-1036,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-25
+EXP-0288,CUST-0243,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-03
+EXP-0289,CUST-1148,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-24
+EXP-0290,CUST-1166,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-26
+EXP-0291,CUST-0635,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,103.18,2026-02-02
+EXP-0292,CUST-0284,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-09
+EXP-0293,CUST-0710,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-0294,CUST-0057,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-22
+EXP-0295,CUST-1110,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-29
+EXP-0296,CUST-1060,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-0297,CUST-1187,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-28
+EXP-0298,CUST-0667,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-0299,CUST-0760,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-0300,CUST-0221,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-14
+EXP-0301,CUST-0606,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-20
+EXP-0302,CUST-0676,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,82.86,2026-02-04
+EXP-0303,CUST-0379,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-07
+EXP-0304,CUST-0322,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-03
+EXP-0305,CUST-1119,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0306,CUST-0153,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,128.4,2026-02-18
+EXP-0307,CUST-0384,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,76.36,2026-02-06
+EXP-0308,CUST-0491,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-06
+EXP-0309,CUST-0734,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-0310,CUST-0948,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-0311,CUST-0478,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-0312,CUST-0325,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,145.08,2026-02-19
+EXP-0313,CUST-0357,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-16
+EXP-0314,CUST-1128,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-27
+EXP-0315,CUST-0122,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-0316,CUST-0340,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-11
+EXP-0317,CUST-0199,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0318,CUST-0570,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,107.71,2026-01-23
+EXP-0319,CUST-0182,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-20
+EXP-0320,CUST-0634,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-16
+EXP-0321,CUST-0481,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-23
+EXP-0322,CUST-0011,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-08
+EXP-0323,CUST-0423,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-30
+EXP-0324,CUST-0421,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-21
+EXP-0325,CUST-0514,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-15
+EXP-0326,CUST-0390,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0327,CUST-0616,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0328,CUST-0034,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-15
+EXP-0329,CUST-0610,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,123.95,2026-01-24
+EXP-0330,CUST-0844,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-0331,CUST-0152,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-0332,CUST-0543,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-0333,CUST-0571,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-01
+EXP-0334,CUST-0909,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-11
+EXP-0335,CUST-1170,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-17
+EXP-0336,CUST-0820,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-23
+EXP-0337,CUST-0757,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-27
+EXP-0338,CUST-0099,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,125.07,2026-02-23
+EXP-0339,CUST-1109,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-22
+EXP-0340,CUST-0872,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-0341,CUST-0616,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-0342,CUST-0311,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-13
+EXP-0343,CUST-0471,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-26
+EXP-0344,CUST-0115,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-20
+EXP-0345,CUST-0275,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-16
+EXP-0346,CUST-0396,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-29
+EXP-0347,CUST-0304,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-22
+EXP-0348,CUST-0383,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0349,CUST-0565,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-14
+EXP-0350,CUST-0544,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-06
+EXP-0351,CUST-0872,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,135.86,2026-02-03
+EXP-0352,CUST-0314,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-0353,CUST-1042,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-10
+EXP-0354,CUST-0815,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-0355,CUST-0949,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-22
+EXP-0356,CUST-1105,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0357,CUST-0881,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-0358,CUST-1109,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-25
+EXP-0359,CUST-1199,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0360,CUST-0736,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-17
+EXP-0361,CUST-0045,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-20
+EXP-0362,CUST-1139,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-17
+EXP-0363,CUST-0973,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-29
+EXP-0364,CUST-0481,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,89.09,2026-02-08
+EXP-0365,CUST-0885,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0366,CUST-1060,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-04
+EXP-0367,CUST-0473,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-23
+EXP-0368,CUST-0345,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-0369,CUST-1137,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0370,CUST-0727,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-17
+EXP-0371,CUST-1052,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-17
+EXP-0372,CUST-0397,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0373,CUST-1152,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-11
+EXP-0374,CUST-0597,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-0375,CUST-1185,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-04
+EXP-0376,CUST-0743,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-15
+EXP-0377,CUST-0973,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-0378,CUST-0127,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-27
+EXP-0379,CUST-0565,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-15
+EXP-0380,CUST-1142,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-25
+EXP-0381,CUST-1104,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-04
+EXP-0382,CUST-0037,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0383,CUST-0996,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-23
+EXP-0384,CUST-0107,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-26
+EXP-0385,CUST-0367,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-10
+EXP-0386,CUST-0264,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-03
+EXP-0387,CUST-0107,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-06
+EXP-0388,CUST-0091,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-0389,CUST-0005,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-08
+EXP-0390,CUST-1012,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-24
+EXP-0391,CUST-1160,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0392,CUST-0319,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-06
+EXP-0393,CUST-0072,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-0394,CUST-0553,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,154.97,2026-02-09
+EXP-0395,CUST-0406,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-20
+EXP-0396,CUST-0498,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0397,CUST-0881,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,179.91,2026-02-12
+EXP-0398,CUST-0982,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-13
+EXP-0399,CUST-0703,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-0400,CUST-0225,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-01
+EXP-0401,CUST-1039,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-12
+EXP-0402,CUST-1162,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-27
+EXP-0403,CUST-0630,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-0404,CUST-0549,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,132.39,2026-02-24
+EXP-0405,CUST-0140,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-25
+EXP-0406,CUST-0431,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-0407,CUST-0138,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-10
+EXP-0408,CUST-0789,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-0409,CUST-0527,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-0410,CUST-0917,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-26
+EXP-0411,CUST-0766,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,154.13,2026-02-05
+EXP-0412,CUST-1183,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-20
+EXP-0413,CUST-0229,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-0414,CUST-0600,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-0415,CUST-0038,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-0416,CUST-0317,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-03
+EXP-0417,CUST-0517,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-22
+EXP-0418,CUST-0905,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-27
+EXP-0419,CUST-0885,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-15
+EXP-0420,CUST-1128,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-26
+EXP-0421,CUST-0448,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0422,CUST-0327,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-0423,CUST-0012,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-11
+EXP-0424,CUST-0936,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-24
+EXP-0425,CUST-1035,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-30
+EXP-0426,CUST-1017,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-17
+EXP-0427,CUST-1197,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-0428,CUST-1021,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-0429,CUST-1006,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-09
+EXP-0430,CUST-0040,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-0431,CUST-0297,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-0432,CUST-1136,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-18
+EXP-0433,CUST-0611,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-09
+EXP-0434,CUST-0605,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-14
+EXP-0435,CUST-0155,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-28
+EXP-0436,CUST-0924,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0437,CUST-1090,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-16
+EXP-0438,CUST-0371,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-14
+EXP-0439,CUST-0946,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-16
+EXP-0440,CUST-0425,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-22
+EXP-0441,CUST-0145,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-20
+EXP-0442,CUST-0126,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0443,CUST-0026,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-20
+EXP-0444,CUST-0575,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-29
+EXP-0445,CUST-0119,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0446,CUST-0064,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-01
+EXP-0447,CUST-0306,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0448,CUST-0827,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-20
+EXP-0449,CUST-1041,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-01
+EXP-0450,CUST-1079,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-29
+EXP-0451,CUST-0493,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-0452,CUST-0742,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-0453,CUST-0621,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-17
+EXP-0454,CUST-0468,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,82.27,2026-01-25
+EXP-0455,CUST-0616,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-0456,CUST-0251,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-29
+EXP-0457,CUST-1099,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-0458,CUST-1013,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0459,CUST-0152,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-0460,CUST-0105,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0461,CUST-0069,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-24
+EXP-0462,CUST-0817,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-03
+EXP-0463,CUST-0294,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-04
+EXP-0464,CUST-0920,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-0465,CUST-0363,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-0466,CUST-0653,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-04
+EXP-0467,CUST-0824,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-0468,CUST-0495,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-23
+EXP-0469,CUST-1105,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-14
+EXP-0470,CUST-0058,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-09
+EXP-0471,CUST-0333,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-0472,CUST-0218,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-0473,CUST-0587,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-0474,CUST-0592,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,60.14,2026-02-14
+EXP-0475,CUST-0132,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-0476,CUST-0505,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-01
+EXP-0477,CUST-0651,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-0478,CUST-0644,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-13
+EXP-0479,CUST-0653,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-14
+EXP-0480,CUST-0663,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-0481,CUST-0811,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-0482,CUST-0811,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,159.06,2026-01-22
+EXP-0483,CUST-0069,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-30
+EXP-0484,CUST-0677,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-20
+EXP-0485,CUST-0881,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-22
+EXP-0486,CUST-0093,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-07
+EXP-0487,CUST-1074,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-02
+EXP-0488,CUST-0857,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-29
+EXP-0489,CUST-0812,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,175.79,2026-01-20
+EXP-0490,CUST-0020,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-26
+EXP-0491,CUST-0426,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-23
+EXP-0492,CUST-0946,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-05
+EXP-0493,CUST-0815,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,78.02,2026-01-30
+EXP-0494,CUST-0380,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-20
+EXP-0495,CUST-0065,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-21
+EXP-0496,CUST-0152,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-0497,CUST-0887,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-0498,CUST-1099,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-24
+EXP-0499,CUST-0215,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-0500,CUST-0810,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-03
+EXP-0501,CUST-0734,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-29
+EXP-0502,CUST-0575,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-0503,CUST-1158,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-23
+EXP-0504,CUST-1077,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-17
+EXP-0505,CUST-0346,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-0506,CUST-0448,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-25
+EXP-0507,CUST-0355,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-08
+EXP-0508,CUST-0139,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-0509,CUST-0145,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-0510,CUST-0487,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-22
+EXP-0511,CUST-0883,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-31
+EXP-0512,CUST-0029,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-0513,CUST-1034,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-0514,CUST-0181,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-26
+EXP-0515,CUST-0754,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-0516,CUST-0318,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0517,CUST-1193,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-0518,CUST-0870,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,141.8,2026-02-21
+EXP-0519,CUST-0842,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-29
+EXP-0520,CUST-0557,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-19
+EXP-0521,CUST-0358,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-0522,CUST-0945,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-27
+EXP-0523,CUST-0053,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-0524,CUST-0681,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-0525,CUST-1028,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-0526,CUST-0632,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,130.13,2026-01-21
+EXP-0527,CUST-0399,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-0528,CUST-0432,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-02
+EXP-0529,CUST-0290,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-0530,CUST-0669,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-26
+EXP-0531,CUST-0570,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-13
+EXP-0532,CUST-0466,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-21
+EXP-0533,CUST-0700,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-27
+EXP-0534,CUST-0426,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0535,CUST-0617,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-17
+EXP-0536,CUST-1055,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-23
+EXP-0537,CUST-0012,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-29
+EXP-0538,CUST-1175,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-0539,CUST-1124,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-0540,CUST-0697,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-20
+EXP-0541,CUST-0611,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-13
+EXP-0542,CUST-0806,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-09
+EXP-0543,CUST-0155,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-0544,CUST-0178,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-14
+EXP-0545,CUST-0185,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-0546,CUST-0329,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0547,CUST-0872,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,125.13,2026-01-23
+EXP-0548,CUST-0995,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-0549,CUST-0730,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-15
+EXP-0550,CUST-1200,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-07
+EXP-0551,CUST-0013,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-20
+EXP-0552,CUST-0490,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-09
+EXP-0553,CUST-0253,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-27
+EXP-0554,CUST-1102,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-11
+EXP-0555,CUST-0380,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-02
+EXP-0556,CUST-1130,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,94.35,2026-01-28
+EXP-0557,CUST-0327,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0558,CUST-0042,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-31
+EXP-0559,CUST-0061,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-14
+EXP-0560,CUST-0603,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-0561,CUST-0288,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0562,CUST-0881,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-15
+EXP-0563,CUST-0098,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-03
+EXP-0564,CUST-0620,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-23
+EXP-0565,CUST-0727,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-24
+EXP-0566,CUST-0022,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-18
+EXP-0567,CUST-0741,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-08
+EXP-0568,CUST-0028,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-03
+EXP-0569,CUST-0423,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-21
+EXP-0570,CUST-0842,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0571,CUST-0825,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-13
+EXP-0572,CUST-0190,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-0573,CUST-0810,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-0574,CUST-1152,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0575,CUST-0946,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-20
+EXP-0576,CUST-0193,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-0577,CUST-0925,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-27
+EXP-0578,CUST-1044,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-0579,CUST-1131,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,146.67,2026-01-28
+EXP-0580,CUST-0012,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-24
+EXP-0581,CUST-0747,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-24
+EXP-0582,CUST-0162,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-0583,CUST-0082,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0584,CUST-0286,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-0585,CUST-0377,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-03
+EXP-0586,CUST-1028,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-0587,CUST-0275,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0588,CUST-0570,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-0589,CUST-0438,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-07
+EXP-0590,CUST-1039,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-0591,CUST-0407,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-0592,CUST-0824,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-23
+EXP-0593,CUST-0547,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-27
+EXP-0594,CUST-0241,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-23
+EXP-0595,CUST-0143,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0596,CUST-1029,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-11
+EXP-0597,CUST-1155,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-23
+EXP-0598,CUST-0766,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-14
+EXP-0599,CUST-0075,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,177.42,2026-02-14
+EXP-0600,CUST-0095,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-13
+EXP-0601,CUST-0581,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0602,CUST-0010,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-0603,CUST-1098,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-0604,CUST-0205,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-24
+EXP-0605,CUST-0938,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-29
+EXP-0606,CUST-0926,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-0607,CUST-1018,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-22
+EXP-0608,CUST-1173,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,114.91,2026-02-22
+EXP-0609,CUST-0218,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-12
+EXP-0610,CUST-0975,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-13
+EXP-0611,CUST-1144,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0612,CUST-0421,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-0613,CUST-0423,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-01
+EXP-0614,CUST-1018,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0615,CUST-0521,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-19
+EXP-0616,CUST-1138,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-19
+EXP-0617,CUST-0746,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-0618,CUST-0305,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-0619,CUST-0639,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-0620,CUST-0798,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-0621,CUST-0185,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0622,CUST-0880,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-04
+EXP-0623,CUST-0753,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-08
+EXP-0624,CUST-0785,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-22
+EXP-0625,CUST-0707,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-26
+EXP-0626,CUST-0274,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-25
+EXP-0627,CUST-0627,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-24
+EXP-0628,CUST-0985,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-0629,CUST-0896,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-23
+EXP-0630,CUST-0324,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-21
+EXP-0631,CUST-1128,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-04
+EXP-0632,CUST-0370,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-20
+EXP-0633,CUST-0482,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0634,CUST-0988,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-02
+EXP-0635,CUST-0738,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-26
+EXP-0636,CUST-0721,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0637,CUST-0091,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-25
+EXP-0638,CUST-1142,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-20
+EXP-0639,CUST-0614,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0640,CUST-0641,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0641,CUST-0514,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-23
+EXP-0642,CUST-0847,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-11
+EXP-0643,CUST-0386,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-31
+EXP-0644,CUST-0564,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,199.42,2026-02-06
+EXP-0645,CUST-1190,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-26
+EXP-0646,CUST-0367,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-12
+EXP-0647,CUST-1188,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-0648,CUST-0833,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-0649,CUST-0605,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-0650,CUST-0956,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-22
+EXP-0651,CUST-0170,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-16
+EXP-0652,CUST-0307,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-11
+EXP-0653,CUST-0409,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-30
+EXP-0654,CUST-0076,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-07
+EXP-0655,CUST-0707,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-09
+EXP-0656,CUST-1023,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,66.42,2026-02-04
+EXP-0657,CUST-0505,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-19
+EXP-0658,CUST-0892,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-20
+EXP-0659,CUST-0918,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0660,CUST-0638,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-12
+EXP-0661,CUST-0098,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-16
+EXP-0662,CUST-0371,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0663,CUST-0121,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,176.42,2026-02-13
+EXP-0664,CUST-0160,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-25
+EXP-0665,CUST-0988,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-0666,CUST-0913,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,146.89,2026-02-02
+EXP-0667,CUST-0957,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-23
+EXP-0668,CUST-0786,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0669,CUST-1084,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-01
+EXP-0670,CUST-0466,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0671,CUST-0505,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-0672,CUST-0800,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-23
+EXP-0673,CUST-0289,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,96.98,2026-02-03
+EXP-0674,CUST-0426,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0675,CUST-0958,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-0676,CUST-1154,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-0677,CUST-0746,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,50.54,2026-02-18
+EXP-0678,CUST-0980,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-10
+EXP-0679,CUST-1057,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0680,CUST-0970,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-0681,CUST-0897,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-21
+EXP-0682,CUST-0052,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0683,CUST-0951,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-04
+EXP-0684,CUST-0475,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-17
+EXP-0685,CUST-0112,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0686,CUST-0399,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0687,CUST-0233,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-19
+EXP-0688,CUST-1057,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-05
+EXP-0689,CUST-0383,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-0690,CUST-0056,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-29
+EXP-0691,CUST-0328,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-04
+EXP-0692,CUST-0587,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0693,CUST-1061,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-09
+EXP-0694,CUST-0578,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-0695,CUST-0548,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-23
+EXP-0696,CUST-1045,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-0697,CUST-0498,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-14
+EXP-0698,CUST-1195,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-06
+EXP-0699,CUST-0062,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,186.66,2026-02-03
+EXP-0700,CUST-0288,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-21
+EXP-0701,CUST-0438,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-0702,CUST-0543,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-24
+EXP-0703,CUST-0509,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-21
+EXP-0704,CUST-0066,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-03
+EXP-0705,CUST-0795,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0706,CUST-1083,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-23
+EXP-0707,CUST-0593,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-27
+EXP-0708,CUST-0625,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-0709,CUST-0411,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-19
+EXP-0710,CUST-0172,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,112.31,2026-02-21
+EXP-0711,CUST-1066,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-11
+EXP-0712,CUST-0499,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-04
+EXP-0713,CUST-0764,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-05
+EXP-0714,CUST-0486,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-09
+EXP-0715,CUST-0306,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-17
+EXP-0716,CUST-1087,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-22
+EXP-0717,CUST-0269,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-01
+EXP-0718,CUST-0290,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0719,CUST-1120,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-15
+EXP-0720,CUST-0524,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-31
+EXP-0721,CUST-1038,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-06
+EXP-0722,CUST-0175,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-21
+EXP-0723,CUST-0989,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-15
+EXP-0724,CUST-0722,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-15
+EXP-0725,CUST-1114,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-17
+EXP-0726,CUST-0724,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-16
+EXP-0727,CUST-1196,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-08
+EXP-0728,CUST-0338,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-26
+EXP-0729,CUST-0858,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-19
+EXP-0730,CUST-0556,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-0731,CUST-0993,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-0732,CUST-1134,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-09
+EXP-0733,CUST-0592,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-0734,CUST-0468,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-0735,CUST-1001,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-21
+EXP-0736,CUST-0947,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-24
+EXP-0737,CUST-0079,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,113.95,2026-02-03
+EXP-0738,CUST-0400,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-26
+EXP-0739,CUST-0733,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-0740,CUST-0567,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-0741,CUST-0294,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-0742,CUST-0914,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,161.49,2026-02-13
+EXP-0743,CUST-0727,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-0744,CUST-0609,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-14
+EXP-0745,CUST-0872,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-09
+EXP-0746,CUST-0354,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-07
+EXP-0747,CUST-0369,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0748,CUST-0075,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-06
+EXP-0749,CUST-0451,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-0750,CUST-0164,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-0751,CUST-0919,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-06
+EXP-0752,CUST-0049,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-24
+EXP-0753,CUST-0501,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-01
+EXP-0754,CUST-0689,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-01
+EXP-0755,CUST-0921,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-30
+EXP-0756,CUST-0191,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-22
+EXP-0757,CUST-0901,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-24
+EXP-0758,CUST-0455,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-22
+EXP-0759,CUST-0935,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-13
+EXP-0760,CUST-0012,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-10
+EXP-0761,CUST-0578,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-24
+EXP-0762,CUST-0047,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-03
+EXP-0763,CUST-0203,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-14
+EXP-0764,CUST-0178,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-04
+EXP-0765,CUST-0427,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-02
+EXP-0766,CUST-0494,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-0767,CUST-0414,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-11
+EXP-0768,CUST-0902,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-29
+EXP-0769,CUST-0625,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-0770,CUST-0357,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-16
+EXP-0771,CUST-0465,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-21
+EXP-0772,CUST-0449,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,228.27,2026-02-20
+EXP-0773,CUST-1189,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-30
+EXP-0774,CUST-0526,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,132.55,2026-02-04
+EXP-0775,CUST-0082,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-10
+EXP-0776,CUST-1074,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-0777,CUST-0544,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-25
+EXP-0778,CUST-0052,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-20
+EXP-0779,CUST-0385,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-0780,CUST-0251,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-25
+EXP-0781,CUST-1093,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-13
+EXP-0782,CUST-1172,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-0783,CUST-0416,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-11
+EXP-0784,CUST-0146,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-28
+EXP-0785,CUST-1039,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-03
+EXP-0786,CUST-0883,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-0787,CUST-0998,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-0788,CUST-0897,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-14
+EXP-0789,CUST-0511,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-23
+EXP-0790,CUST-0188,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-10
+EXP-0791,CUST-0432,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,146.79,2026-01-21
+EXP-0792,CUST-1193,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-11
+EXP-0793,CUST-0221,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-0794,CUST-1143,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-24
+EXP-0795,CUST-0521,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-29
+EXP-0796,CUST-0499,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-13
+EXP-0797,CUST-0246,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-23
+EXP-0798,CUST-0124,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-0799,CUST-1153,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,129.49,2026-01-30
+EXP-0800,CUST-1116,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-23
+EXP-0801,CUST-0035,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-03
+EXP-0802,CUST-1182,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-0803,CUST-0574,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-0804,CUST-0336,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-23
+EXP-0805,CUST-0844,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-0806,CUST-1106,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-12
+EXP-0807,CUST-0512,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-09
+EXP-0808,CUST-0413,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-05
+EXP-0809,CUST-0779,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-12
+EXP-0810,CUST-0996,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0811,CUST-0334,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-0812,CUST-0651,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,119.07,2026-01-24
+EXP-0813,CUST-0725,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,88.36,2026-02-17
+EXP-0814,CUST-1080,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-17
+EXP-0815,CUST-0625,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-0816,CUST-0579,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-30
+EXP-0817,CUST-0069,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-25
+EXP-0818,CUST-0330,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-20
+EXP-0819,CUST-0600,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-0820,CUST-0685,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-01
+EXP-0821,CUST-0975,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,166.99,2026-01-20
+EXP-0822,CUST-0045,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-23
+EXP-0823,CUST-0091,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-07
+EXP-0824,CUST-0314,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-04
+EXP-0825,CUST-1104,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-16
+EXP-0826,CUST-0295,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-0827,CUST-0431,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-29
+EXP-0828,CUST-0063,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-05
+EXP-0829,CUST-0705,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-02
+EXP-0830,CUST-0531,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-0831,CUST-0734,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-04
+EXP-0832,CUST-0964,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-25
+EXP-0833,CUST-1064,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-24
+EXP-0834,CUST-0319,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-0835,CUST-0829,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-04
+EXP-0836,CUST-0389,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-0837,CUST-0538,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-23
+EXP-0838,CUST-1136,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-17
+EXP-0839,CUST-0719,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0840,CUST-0104,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-21
+EXP-0841,CUST-0994,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-16
+EXP-0842,CUST-1093,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-24
+EXP-0843,CUST-0495,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-0844,CUST-1059,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-0845,CUST-1079,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-12
+EXP-0846,CUST-0008,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-25
+EXP-0847,CUST-0170,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-24
+EXP-0848,CUST-0079,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-12
+EXP-0849,CUST-0879,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-10
+EXP-0850,CUST-0701,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-0851,CUST-0187,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-23
+EXP-0852,CUST-0516,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-16
+EXP-0853,CUST-0275,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-21
+EXP-0854,CUST-0684,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-13
+EXP-0855,CUST-0984,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-0856,CUST-0106,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,128.87,2026-01-27
+EXP-0857,CUST-1072,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-12
+EXP-0858,CUST-0790,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-26
+EXP-0859,CUST-0201,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-16
+EXP-0860,CUST-0324,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,161.38,2026-02-01
+EXP-0861,CUST-0048,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-25
+EXP-0862,CUST-0116,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-22
+EXP-0863,CUST-0967,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,107.41,2026-02-13
+EXP-0864,CUST-1071,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-14
+EXP-0865,CUST-0164,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-22
+EXP-0866,CUST-0255,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-14
+EXP-0867,CUST-0857,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,93.8,2026-02-20
+EXP-0868,CUST-0742,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-11
+EXP-0869,CUST-0572,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-0870,CUST-0426,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-02
+EXP-0871,CUST-0302,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-31
+EXP-0872,CUST-1123,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,181.69,2026-01-28
+EXP-0873,CUST-1063,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-19
+EXP-0874,CUST-0718,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-0875,CUST-0044,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-05
+EXP-0876,CUST-1015,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-0877,CUST-0951,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-15
+EXP-0878,CUST-0636,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-0879,CUST-0935,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-12
+EXP-0880,CUST-0160,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-0881,CUST-0096,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-24
+EXP-0882,CUST-0811,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-05
+EXP-0883,CUST-0141,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-16
+EXP-0884,CUST-0475,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-29
+EXP-0885,CUST-0553,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0886,CUST-0057,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-0887,CUST-0974,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-0888,CUST-0783,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-30
+EXP-0889,CUST-0470,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-04
+EXP-0890,CUST-0502,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0891,CUST-0496,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-11
+EXP-0892,CUST-0332,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-0893,CUST-0891,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-20
+EXP-0894,CUST-0289,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-23
+EXP-0895,CUST-1078,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-08
+EXP-0896,CUST-0471,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-22
+EXP-0897,CUST-0321,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-0898,CUST-0556,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-10
+EXP-0899,CUST-0737,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-0900,CUST-0656,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-09
+EXP-0901,CUST-0430,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-24
+EXP-0902,CUST-0982,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-26
+EXP-0903,CUST-0393,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-29
+EXP-0904,CUST-1116,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-26
+EXP-0905,CUST-0216,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,124.2,2026-02-15
+EXP-0906,CUST-0475,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-0907,CUST-1001,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-30
+EXP-0908,CUST-1019,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-14
+EXP-0909,CUST-1174,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-28
+EXP-0910,CUST-1084,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0911,CUST-0661,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-08
+EXP-0912,CUST-0906,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-22
+EXP-0913,CUST-0212,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-23
+EXP-0914,CUST-1101,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-0915,CUST-0594,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,38.55,2026-02-24
+EXP-0916,CUST-0631,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-0917,CUST-1070,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-30
+EXP-0918,CUST-0257,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0919,CUST-0093,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-0920,CUST-1170,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-03
+EXP-0921,CUST-0126,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-0922,CUST-0060,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-17
+EXP-0923,CUST-0816,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-0924,CUST-0794,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,155.42,2026-01-23
+EXP-0925,CUST-0459,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-0926,CUST-0851,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-31
+EXP-0927,CUST-0749,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-02
+EXP-0928,CUST-0939,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,123.05,2026-02-06
+EXP-0929,CUST-0734,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,89.39,2026-02-07
+EXP-0930,CUST-0238,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-23
+EXP-0931,CUST-0663,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-0932,CUST-0087,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-0933,CUST-0216,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-26
+EXP-0934,CUST-0867,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0935,CUST-0448,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,148.48,2026-01-30
+EXP-0936,CUST-0643,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-13
+EXP-0937,CUST-0432,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-24
+EXP-0938,CUST-0291,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-25
+EXP-0939,CUST-0807,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-15
+EXP-0940,CUST-0065,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-20
+EXP-0941,CUST-0637,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-0942,CUST-0476,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-09
+EXP-0943,CUST-1108,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-0944,CUST-0906,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-23
+EXP-0945,CUST-0408,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-03
+EXP-0946,CUST-0543,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-30
+EXP-0947,CUST-1171,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-03
+EXP-0948,CUST-0632,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-0949,CUST-1200,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-22
+EXP-0950,CUST-0701,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0951,CUST-1017,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-0952,CUST-1139,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-08
+EXP-0953,CUST-0199,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-11
+EXP-0954,CUST-1200,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,118.28,2026-02-01
+EXP-0955,CUST-0394,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-0956,CUST-0670,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-18
+EXP-0957,CUST-0871,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-0958,CUST-0593,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-0959,CUST-0977,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-0960,CUST-0542,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-13
+EXP-0961,CUST-0582,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-0962,CUST-0183,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-0963,CUST-1117,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-09
+EXP-0964,CUST-0457,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-0965,CUST-0732,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-0966,CUST-0812,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-21
+EXP-0967,CUST-0417,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-0968,CUST-0914,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-30
+EXP-0969,CUST-0486,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-21
+EXP-0970,CUST-0718,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-09
+EXP-0971,CUST-0711,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-0972,CUST-0347,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-26
+EXP-0973,CUST-1094,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-09
+EXP-0974,CUST-0162,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-0975,CUST-0349,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-10
+EXP-0976,CUST-0931,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-22
+EXP-0977,CUST-0515,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-24
+EXP-0978,CUST-0770,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-0979,CUST-0303,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-31
+EXP-0980,CUST-1190,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-0981,CUST-0632,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-04
+EXP-0982,CUST-0379,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-02
+EXP-0983,CUST-0210,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-03
+EXP-0984,CUST-0460,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-0985,CUST-1104,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-0986,CUST-0913,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-02
+EXP-0987,CUST-0183,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-29
+EXP-0988,CUST-0787,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-15
+EXP-0989,CUST-0736,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-19
+EXP-0990,CUST-0836,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-05
+EXP-0991,CUST-0921,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-21
+EXP-0992,CUST-0504,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-22
+EXP-0993,CUST-0577,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-21
+EXP-0994,CUST-0197,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-21
+EXP-0995,CUST-0384,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-21
+EXP-0996,CUST-0832,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-25
+EXP-0997,CUST-0286,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-10
+EXP-0998,CUST-0100,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-20
+EXP-0999,CUST-0501,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-1000,CUST-0795,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-1001,CUST-0221,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-05
+EXP-1002,CUST-1177,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-1003,CUST-0433,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-06
+EXP-1004,CUST-0603,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-09
+EXP-1005,CUST-0760,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-21
+EXP-1006,CUST-0405,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-20
+EXP-1007,CUST-0931,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-29
+EXP-1008,CUST-0241,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-08
+EXP-1009,CUST-0582,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-05
+EXP-1010,CUST-1151,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-23
+EXP-1011,CUST-0874,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-1012,CUST-0522,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-1013,CUST-0799,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-10
+EXP-1014,CUST-0004,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-1015,CUST-0124,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-05
+EXP-1016,CUST-0462,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-04
+EXP-1017,CUST-0798,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-21
+EXP-1018,CUST-0579,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-1019,CUST-0192,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-23
+EXP-1020,CUST-0881,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,124.18,2026-02-15
+EXP-1021,CUST-0316,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-26
+EXP-1022,CUST-1015,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,147.19,2026-02-02
+EXP-1023,CUST-0963,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-22
+EXP-1024,CUST-0236,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-11
+EXP-1025,CUST-0390,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-20
+EXP-1026,CUST-0736,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-24
+EXP-1027,CUST-0991,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-25
+EXP-1028,CUST-0609,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-09
+EXP-1029,CUST-1062,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,106.51,2026-02-21
+EXP-1030,CUST-0399,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-10
+EXP-1031,CUST-0156,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-1032,CUST-0956,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-15
+EXP-1033,CUST-1132,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-07
+EXP-1034,CUST-0243,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-24
+EXP-1035,CUST-0351,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-1036,CUST-0724,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-02
+EXP-1037,CUST-0815,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-22
+EXP-1038,CUST-0369,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-22
+EXP-1039,CUST-0411,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-10
+EXP-1040,CUST-0410,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-07
+EXP-1041,CUST-1042,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-23
+EXP-1042,CUST-0203,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-11
+EXP-1043,CUST-1142,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-19
+EXP-1044,CUST-0635,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-16
+EXP-1045,CUST-0126,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-10
+EXP-1046,CUST-1173,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-18
+EXP-1047,CUST-0015,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-1048,CUST-0716,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-1049,CUST-0220,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-24
+EXP-1050,CUST-0448,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,123.79,2026-02-16
+EXP-1051,CUST-0008,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-1052,CUST-0888,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,121.17,2026-02-06
+EXP-1053,CUST-0627,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-13
+EXP-1054,CUST-0026,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-03
+EXP-1055,CUST-0971,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-22
+EXP-1056,CUST-0367,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-13
+EXP-1057,CUST-0045,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-10
+EXP-1058,CUST-0353,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-1059,CUST-0219,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-1060,CUST-0906,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-1061,CUST-1105,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-04
+EXP-1062,CUST-0725,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-28
+EXP-1063,CUST-0197,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-22
+EXP-1064,CUST-0670,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-1065,CUST-0111,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-14
+EXP-1066,CUST-0068,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-22
+EXP-1067,CUST-0949,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-1068,CUST-0004,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,153.64,2026-01-23
+EXP-1069,CUST-0743,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-1070,CUST-0841,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-28
+EXP-1071,CUST-0625,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-06
+EXP-1072,CUST-0386,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-15
+EXP-1073,CUST-0688,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-1074,CUST-0361,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-19
+EXP-1075,CUST-0881,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-09
+EXP-1076,CUST-0623,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-1077,CUST-0939,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-26
+EXP-1078,CUST-0642,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-07
+EXP-1079,CUST-0784,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-24
+EXP-1080,CUST-0781,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-1081,CUST-0171,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-29
+EXP-1082,CUST-0691,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-04
+EXP-1083,CUST-0882,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-1084,CUST-0275,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-1085,CUST-0035,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,138.64,2026-02-10
+EXP-1086,CUST-0068,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-20
+EXP-1087,CUST-0729,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,163.81,2026-01-25
+EXP-1088,CUST-1169,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-28
+EXP-1089,CUST-0848,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-25
+EXP-1090,CUST-0544,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-20
+EXP-1091,CUST-1124,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-22
+EXP-1092,CUST-0805,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-1093,CUST-1152,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-1094,CUST-0742,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-22
+EXP-1095,CUST-0342,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-05
+EXP-1096,CUST-0963,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-28
+EXP-1097,CUST-0258,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-24
+EXP-1098,CUST-1119,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-1099,CUST-1120,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-1100,CUST-1119,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-30
+EXP-1101,CUST-0177,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-1102,CUST-0251,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-1103,CUST-0419,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-21
+EXP-1104,CUST-0935,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-20
+EXP-1105,CUST-0293,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-28
+EXP-1106,CUST-0029,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-20
+EXP-1107,CUST-1114,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-14
+EXP-1108,CUST-0207,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-25
+EXP-1109,CUST-0608,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-1110,CUST-0643,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-19
+EXP-1111,CUST-0179,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-1112,CUST-0937,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-27
+EXP-1113,CUST-0398,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-13
+EXP-1114,CUST-0796,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-22
+EXP-1115,CUST-0412,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-14
+EXP-1116,CUST-0706,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-1117,CUST-0179,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-1118,CUST-0748,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,197.69,2026-01-23
+EXP-1119,CUST-0782,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-1120,CUST-0263,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-21
+EXP-1121,CUST-1057,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-1122,CUST-0512,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-13
+EXP-1123,CUST-0348,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-20
+EXP-1124,CUST-1001,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-30
+EXP-1125,CUST-0375,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-1126,CUST-1014,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-26
+EXP-1127,CUST-0809,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-12
+EXP-1128,CUST-0685,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-07
+EXP-1129,CUST-0063,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,80.2,2026-02-18
+EXP-1130,CUST-0018,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-21
+EXP-1131,CUST-1057,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-1132,CUST-0757,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-09
+EXP-1133,CUST-0663,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-1134,CUST-0943,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-1135,CUST-0836,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-24
+EXP-1136,CUST-0674,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-31
+EXP-1137,CUST-0805,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-30
+EXP-1138,CUST-0374,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-1139,CUST-0169,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-02
+EXP-1140,CUST-0978,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,121.02,2026-02-20
+EXP-1141,CUST-0426,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-1142,CUST-1198,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-1143,CUST-0240,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-22
+EXP-1144,CUST-0312,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-15
+EXP-1145,CUST-0100,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-24
+EXP-1146,CUST-1104,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-27
+EXP-1147,CUST-0325,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-01
+EXP-1148,CUST-0925,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-1149,CUST-0204,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-09
+EXP-1150,CUST-0128,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-24
+EXP-1151,CUST-0389,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-30
+EXP-1152,CUST-0598,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-24
+EXP-1153,CUST-0584,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-1154,CUST-0074,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-10
+EXP-1155,CUST-0128,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-20
+EXP-1156,CUST-0609,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-11
+EXP-1157,CUST-0180,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,138.95,2026-01-30
+EXP-1158,CUST-0320,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-07
+EXP-1159,CUST-1107,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-1160,CUST-0660,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-12
+EXP-1161,CUST-1029,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-22
+EXP-1162,CUST-0526,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-1163,CUST-0331,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-21
+EXP-1164,CUST-0366,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-10
+EXP-1165,CUST-0723,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-18
+EXP-1166,CUST-0397,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-04
+EXP-1167,CUST-1195,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-14
+EXP-1168,CUST-0341,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-12
+EXP-1169,CUST-0701,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-10
+EXP-1170,CUST-0495,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-04
+EXP-1171,CUST-1158,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-1172,CUST-0981,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-04
+EXP-1173,CUST-0791,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-1174,CUST-1095,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-1175,CUST-0768,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,119.47,2026-01-23
+EXP-1176,CUST-0267,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-16
+EXP-1177,CUST-0208,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-13
+EXP-1178,CUST-0391,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-1179,CUST-0802,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-1180,CUST-0749,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-18
+EXP-1181,CUST-0425,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-14
+EXP-1182,CUST-0540,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-03
+EXP-1183,CUST-0876,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-23
+EXP-1184,CUST-0079,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-02
+EXP-1185,CUST-1104,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-1186,CUST-0472,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-05
+EXP-1187,CUST-0129,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-1188,CUST-0421,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-1189,CUST-0728,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-22
+EXP-1190,CUST-0798,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-1191,CUST-0318,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-24
+EXP-1192,CUST-0624,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-19
+EXP-1193,CUST-0114,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-17
+EXP-1194,CUST-0908,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-06
+EXP-1195,CUST-0243,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-03
+EXP-1196,CUST-0145,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-07
+EXP-1197,CUST-0174,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,136.54,2026-02-13
+EXP-1198,CUST-0293,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-1199,CUST-0249,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-01
+EXP-1200,CUST-0398,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-1201,CUST-0462,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,187.73,2026-02-23
+EXP-1202,CUST-0927,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-1203,CUST-1062,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-04
+EXP-1204,CUST-0598,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,88.91,2026-02-23
+EXP-1205,CUST-0614,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-1206,CUST-0404,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-1207,CUST-0495,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-1208,CUST-0298,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-14
+EXP-1209,CUST-0923,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-30
+EXP-1210,CUST-0204,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-14
+EXP-1211,CUST-0938,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-08
+EXP-1212,CUST-0694,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-1213,CUST-0485,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-05
+EXP-1214,CUST-0965,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-29
+EXP-1215,CUST-0580,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-30
+EXP-1216,CUST-0145,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,137.94,2026-02-14
+EXP-1217,CUST-0642,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-10
+EXP-1218,CUST-0617,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-18
+EXP-1219,CUST-0658,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-03
+EXP-1220,CUST-0353,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-13
+EXP-1221,CUST-0908,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-04
+EXP-1222,CUST-0442,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-23
+EXP-1223,CUST-0319,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-11
+EXP-1224,CUST-0694,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-1225,CUST-0539,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-1226,CUST-0817,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-1227,CUST-0414,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-1228,CUST-0186,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-10
+EXP-1229,CUST-1047,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,184.26,2026-01-22
+EXP-1230,CUST-1164,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-1231,CUST-0869,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-1232,CUST-0919,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-04
+EXP-1233,CUST-0647,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,156.83,2026-02-19
+EXP-1234,CUST-1001,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-01
+EXP-1235,CUST-0420,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-17
+EXP-1236,CUST-0222,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-1237,CUST-0834,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-30
+EXP-1238,CUST-0636,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-1239,CUST-0620,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-24
+EXP-1240,CUST-0764,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-08
+EXP-1241,CUST-0060,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-14
+EXP-1242,CUST-0812,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-22
+EXP-1243,CUST-0264,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-03
+EXP-1244,CUST-0371,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-04
+EXP-1245,CUST-0579,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-01
+EXP-1246,CUST-0742,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-20
+EXP-1247,CUST-0491,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-14
+EXP-1248,CUST-0589,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-23
+EXP-1249,CUST-0487,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-12
+EXP-1250,CUST-0122,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-1251,CUST-0539,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-25
+EXP-1252,CUST-0157,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-23
+EXP-1253,CUST-0802,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-21
+EXP-1254,CUST-0154,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-1255,CUST-0965,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-12
+EXP-1256,CUST-0262,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-1257,CUST-0319,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-1258,CUST-0503,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-22
+EXP-1259,CUST-0571,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-1260,CUST-0781,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-18
+EXP-1261,CUST-0347,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-11
+EXP-1262,CUST-1106,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-17
+EXP-1263,CUST-0055,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-1264,CUST-0677,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-1265,CUST-0883,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,85.48,2026-02-14
+EXP-1266,CUST-1019,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-1267,CUST-0011,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-22
+EXP-1268,CUST-0350,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-29
+EXP-1269,CUST-0642,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,82.58,2026-02-06
+EXP-1270,CUST-0297,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-21
+EXP-1271,CUST-0756,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-20
+EXP-1272,CUST-0934,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-25
+EXP-1273,CUST-0467,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-1274,CUST-0606,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-1275,CUST-0948,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-10
+EXP-1276,CUST-0212,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-14
+EXP-1277,CUST-0949,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-1278,CUST-0117,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-30
+EXP-1279,CUST-0938,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-1280,CUST-0520,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-25
+EXP-1281,CUST-0956,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-04
+EXP-1282,CUST-0981,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-28
+EXP-1283,CUST-0839,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,97.88,2026-01-23
+EXP-1284,CUST-0574,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-19
+EXP-1285,CUST-1033,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-13
+EXP-1286,CUST-0544,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-19
+EXP-1287,CUST-0214,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,164.32,2026-02-02
+EXP-1288,CUST-0954,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-07
+EXP-1289,CUST-0183,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-1290,CUST-0831,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-08
+EXP-1291,CUST-1074,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-1292,CUST-0690,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-1293,CUST-1031,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-20
+EXP-1294,CUST-0301,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-31
+EXP-1295,CUST-0528,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-27
+EXP-1296,CUST-0509,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-30
+EXP-1297,CUST-0262,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-16
+EXP-1298,CUST-1200,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-18
+EXP-1299,CUST-0397,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-07
+EXP-1300,CUST-1077,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-22
+EXP-1301,CUST-0964,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-23
+EXP-1302,CUST-0375,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-18
+EXP-1303,CUST-0420,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-1304,CUST-0829,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-26
+EXP-1305,CUST-0821,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-04
+EXP-1306,CUST-0325,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-24
+EXP-1307,CUST-0858,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-20
+EXP-1308,CUST-0906,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-06
+EXP-1309,CUST-0461,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-19
+EXP-1310,CUST-0043,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-1311,CUST-0898,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-16
+EXP-1312,CUST-1172,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-22
+EXP-1313,CUST-1112,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-11
+EXP-1314,CUST-0913,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-20
+EXP-1315,CUST-1005,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-1316,CUST-0103,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-07
+EXP-1317,CUST-0538,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-23
+EXP-1318,CUST-0846,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-07
+EXP-1319,CUST-1117,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-19
+EXP-1320,CUST-0523,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-1321,CUST-0815,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,163.67,2026-02-14
+EXP-1322,CUST-0720,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-09
+EXP-1323,CUST-0474,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-11
+EXP-1324,CUST-0136,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-31
+EXP-1325,CUST-0790,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-02
+EXP-1326,CUST-0801,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-30
+EXP-1327,CUST-0850,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-04
+EXP-1328,CUST-0470,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-1329,CUST-0426,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,113.74,2026-01-21
+EXP-1330,CUST-1099,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-17
+EXP-1331,CUST-0678,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-08
+EXP-1332,CUST-0260,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-1333,CUST-1045,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-13
+EXP-1334,CUST-1199,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-24
+EXP-1335,CUST-0228,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-21
+EXP-1336,CUST-0954,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-06
+EXP-1337,CUST-1088,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-21
+EXP-1338,CUST-0478,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-13
+EXP-1339,CUST-0064,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-03
+EXP-1340,CUST-0474,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-06
+EXP-1341,CUST-0013,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-29
+EXP-1342,CUST-0675,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,138.23,2026-02-07
+EXP-1343,CUST-0152,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,153.82,2026-02-20
+EXP-1344,CUST-0471,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-07
+EXP-1345,CUST-0183,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-03
+EXP-1346,CUST-0754,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-18
+EXP-1347,CUST-1001,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,107.15,2026-02-24
+EXP-1348,CUST-1189,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,123.95,2026-02-08
+EXP-1349,CUST-1145,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-20
+EXP-1350,CUST-0435,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-09
+EXP-1351,CUST-1088,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-10
+EXP-1352,CUST-0517,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-11
+EXP-1353,CUST-0837,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-08
+EXP-1354,CUST-0896,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-28
+EXP-1355,CUST-0325,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-1356,CUST-0433,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-25
+EXP-1357,CUST-0828,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-04
+EXP-1358,CUST-0689,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-17
+EXP-1359,CUST-0198,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-1360,CUST-0461,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-21
+EXP-1361,CUST-0510,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-19
+EXP-1362,CUST-0003,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-15
+EXP-1363,CUST-0644,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-07
+EXP-1364,CUST-0027,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-20
+EXP-1365,CUST-1071,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-23
+EXP-1366,CUST-1194,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-12
+EXP-1367,CUST-0151,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-21
+EXP-1368,CUST-0524,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-26
+EXP-1369,CUST-0027,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-1370,CUST-1039,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-1371,CUST-0054,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-10
+EXP-1372,CUST-0529,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-01
+EXP-1373,CUST-0049,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-10
+EXP-1374,CUST-0892,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-22
+EXP-1375,CUST-0502,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-20
+EXP-1376,CUST-0877,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-21
+EXP-1377,CUST-0606,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-1378,CUST-0865,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-07
+EXP-1379,CUST-0623,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-1380,CUST-0238,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-07
+EXP-1381,CUST-0586,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-18
+EXP-1382,CUST-0551,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-11
+EXP-1383,CUST-0611,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-18
+EXP-1384,CUST-0287,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-07
+EXP-1385,CUST-1003,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-1386,CUST-0151,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-02
+EXP-1387,CUST-0158,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-18
+EXP-1388,CUST-1101,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-1389,CUST-1194,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-27
+EXP-1390,CUST-0893,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-25
+EXP-1391,CUST-0755,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-01
+EXP-1392,CUST-0315,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,46.94,2026-02-07
+EXP-1393,CUST-1032,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-09
+EXP-1394,CUST-0711,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-1395,CUST-0293,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-30
+EXP-1396,CUST-1083,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-18
+EXP-1397,CUST-1196,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-16
+EXP-1398,CUST-1143,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,73.32,2026-02-10
+EXP-1399,CUST-0527,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-23
+EXP-1400,CUST-0431,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-29
+EXP-1401,CUST-0564,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-1402,CUST-0425,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-22
+EXP-1403,CUST-1021,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-31
+EXP-1404,CUST-1089,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-24
+EXP-1405,CUST-1147,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-13
+EXP-1406,CUST-0527,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-21
+EXP-1407,CUST-0777,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-24
+EXP-1408,CUST-0927,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-10
+EXP-1409,CUST-0375,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-29
+EXP-1410,CUST-1033,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-27
+EXP-1411,CUST-0578,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-20
+EXP-1412,CUST-0091,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-25
+EXP-1413,CUST-0620,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,79.07,2026-01-25
+EXP-1414,CUST-0615,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-06
+EXP-1415,CUST-0360,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-02
+EXP-1416,CUST-1197,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-16
+EXP-1417,CUST-0842,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-18
+EXP-1418,CUST-0367,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-23
+EXP-1419,CUST-0728,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,60.86,2026-02-20
+EXP-1420,CUST-0864,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-27
+EXP-1421,CUST-0420,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-15
+EXP-1422,CUST-0460,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-14
+EXP-1423,CUST-0962,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-21
+EXP-1424,CUST-0229,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-23
+EXP-1425,CUST-0992,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-05
+EXP-1426,CUST-1102,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-31
+EXP-1427,CUST-0329,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-06
+EXP-1428,CUST-0578,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-19
+EXP-1429,CUST-1158,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-20
+EXP-1430,CUST-0171,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-23
+EXP-1431,CUST-0689,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-18
+EXP-1432,CUST-0274,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,173.78,2026-02-04
+EXP-1433,CUST-0447,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-06
+EXP-1434,CUST-0033,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-1435,CUST-1021,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-15
+EXP-1436,CUST-0814,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-21
+EXP-1437,CUST-0305,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-31
+EXP-1438,CUST-0194,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-1439,CUST-1060,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-20
+EXP-1440,CUST-0398,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,131.0,2026-02-19
+EXP-1441,CUST-0843,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-22
+EXP-1442,CUST-0054,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-20
+EXP-1443,CUST-0885,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-05
+EXP-1444,CUST-0046,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-14
+EXP-1445,CUST-1004,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-28
+EXP-1446,CUST-0512,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-10
+EXP-1447,CUST-0065,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-10
+EXP-1448,CUST-0252,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-1449,CUST-0780,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-12
+EXP-1450,CUST-0466,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-05
+EXP-1451,CUST-0382,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-20
+EXP-1452,CUST-0564,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,1,52.91,2026-02-09
+EXP-1453,CUST-1000,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-16
+EXP-1454,CUST-0672,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-21
+EXP-1455,CUST-0173,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-06
+EXP-1456,CUST-1103,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-23
+EXP-1457,CUST-0263,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-01-25
+EXP-1458,CUST-0124,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-10
+EXP-1459,CUST-0733,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-21
+EXP-1460,CUST-0151,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-02
+EXP-1461,CUST-0089,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-24
+EXP-1462,CUST-0739,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-20
+EXP-1463,CUST-0367,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-23
+EXP-1464,CUST-0442,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-23
+EXP-1465,CUST-0294,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-18
+EXP-1466,CUST-0660,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-08
+EXP-1467,CUST-0768,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-18
+EXP-1468,CUST-0395,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-28
+EXP-1469,CUST-0956,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-22
+EXP-1470,CUST-0692,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-12
+EXP-1471,CUST-0239,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-28
+EXP-1472,CUST-0315,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-29
+EXP-1473,CUST-0420,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-24
+EXP-1474,CUST-0450,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-15
+EXP-1475,CUST-0051,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-03
+EXP-1476,CUST-0371,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-31
+EXP-1477,CUST-0392,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-01-31
+EXP-1478,CUST-0041,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,1,159.66,2026-02-24
+EXP-1479,CUST-0914,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-04
+EXP-1480,CUST-0204,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-01-26
+EXP-1481,CUST-0545,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-22
+EXP-1482,CUST-0245,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-19
+EXP-1483,CUST-1026,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-01-27
+EXP-1484,CUST-0072,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,0,0.0,2026-02-09
+EXP-1485,CUST-1011,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-01-27
+EXP-1486,CUST-0552,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-16
+EXP-1487,CUST-0320,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-21
+EXP-1488,CUST-0054,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-14
+EXP-1489,CUST-1145,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,1,125.15,2026-02-15
+EXP-1490,CUST-1129,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,Email,1,121.75,2026-02-02
+EXP-1491,CUST-0673,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,0,0.0,2026-02-19
+EXP-1492,CUST-1026,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-08
+EXP-1493,CUST-0775,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,0,0.0,2026-02-15
+EXP-1494,CUST-0215,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,In-App Notification,0,0.0,2026-02-24
+EXP-1495,CUST-1152,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,Email,1,114.44,2026-02-09
+EXP-1496,CUST-0035,Q1 Retention & Cross-Sell Lift Test,Variant_B_Personalized,SMS,1,166.8,2026-02-09
+EXP-1497,CUST-0588,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-03
+EXP-1498,CUST-0501,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-01-28
+EXP-1499,CUST-0679,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,In-App Notification,0,0.0,2026-02-18
+EXP-1500,CUST-0011,Q1 Retention & Cross-Sell Lift Test,Variant_A_Control,SMS,0,0.0,2026-02-23
